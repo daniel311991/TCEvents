@@ -10,7 +10,7 @@ body { padding-top: 5%; }
 
 
 /* style for navigation */
-a.navbar-brand { width: 25% ;height: 50%; min-width: 200px;}
+a.navbar-brand { width: 25% ;height: 50%; min-width: 150px;}
 
 
 ul.navbar-right { padding-top: 33px; }
