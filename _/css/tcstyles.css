@@ -3,3 +3,14 @@
 	float: right;
 	margin-right: 100px;
 }
+
+
+/* body fixes navbar overlapping the jumbotron */
+body { padding-top: 5%; }
+
+
+/* style for navigation */
+a.navbar-brand { width: 25% ;height: 50%; }
+
+ul.navbar-right { padding-top: 33px; }
+
