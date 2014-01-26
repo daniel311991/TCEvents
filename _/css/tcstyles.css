@@ -39,7 +39,10 @@ h2.font-bebas { font-family: Bebas; color: #eee; font-size: 25px; }
 p.jumbo2 { font-size: 12px !important; font-family: writing; font-style: bold; }
 .row2 { margin-left: -50px; margin-right: -50px; }
 @media (min-width: 1200px){
-	.col-lg-4 { width: 20% !important; }
+	.col-lg-2 { width: 20% !important; position: relative; min-height: 1px; margin-left: 365px; }
+}
+@media (min-width: 1200px){
+	.col-lg-3 { width: 20% !important; position: relative; min-height: 1px; margin-left: 40px; }
 }
 
 @media screen and (min-width: 768px) {
