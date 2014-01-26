@@ -1,9 +1,6 @@
 /*import Bebas font*/
-@font-face {
-	font-family: Bebas;
-	src: url('../fonts/BEBAS.ttf');
-
-}
+@font-face { font-family: Bebas; src: url('../fonts/BEBAS.ttf'); }
+@font-face { font-family: writing; src: url("/..fonts/bell-mt.ttf"); }
 
 /*
 
@@ -18,6 +15,8 @@
 
 h3.font-bebas { padding: 0 0 0 85px; font-family: Bebas; color: white; letter-spacing: 3px; text-align: right;} 
 h1.font-bebas { font-family: Bebas; color: black; text-align: center; }
+
+.jumbotron p{ padding: 20px 285px 0 335px; font-size: 12px !important; font-family: writing; font-style: italic;}
 
 
 .font-bebas-sm {
