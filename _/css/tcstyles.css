@@ -29,13 +29,15 @@ ul.navbar-right { padding-top: 33px; }
 /* styling for jumbotron 1 */
 h3.font-bebas { padding: 0 0 0 85px; font-family: Bebas; color: white; letter-spacing: 3px; text-align: right; } 
 h1.font-bebas { font-family: Bebas; color: black; text-align: center; word-spacing: 15px;}
-p.jumbo1 { padding: 20px 300px 0 320px; font-size: 12px !important; font-family: writing; font-style: italic; }
+p.jumbo1 { font-size: 12px !important; font-family: writing; font-style: italic; max-width: 115%;}
+.row1 { margin: auto; width: 503px; padding-top: 25px;}
+.jumbotron { margin-bottom: 0px !important; }
 
 /* styling for jumbotron 2 */
 h1.font-bebas2 { font-family: Bebas; color: inherit; text-align: center; word-spacing: 15px; font-size: 45px !important; }
 h2.font-bebas { font-family: Bebas; color: #eee; font-size: 25px; }
 p.jumbo2 { font-size: 12px !important; font-family: writing; font-style: bold; }
-.row1 { margin-left: -50px; margin-right: -50px; }
+.row2 { margin-left: -50px; margin-right: -50px; }
 @media (min-width: 1200px){
 	.col-lg-4 { width: 20% !important; }
 }
