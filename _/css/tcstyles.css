@@ -13,12 +13,6 @@
 	letter-spacing: 3px;
 }*/
 
-h3.font-bebas { padding: 0 0 0 85px; font-family: Bebas; color: white; letter-spacing: 3px; text-align: right;} 
-h1.font-bebas { font-family: Bebas; color: black; text-align: center; }
-
-.jumbotron p{ padding: 20px 285px 0 335px; font-size: 12px !important; font-family: writing; font-style: italic;}
-
-
 .font-bebas-sm {
 	display: block;
 	text-align: right;
@@ -46,4 +40,8 @@ a.navbar-brand { width: 25% ;height: 50%; min-width: 150px;}
 
 ul.navbar-right { padding-top: 33px; }
 
+/* styling for jumbotron */
+h3.font-bebas { padding: 0 0 0 85px; font-family: Bebas; color: white; letter-spacing: 3px; text-align: right;} 
+h1.font-bebas { font-family: Bebas; color: black; text-align: center; }
+.jumbotron p{ padding: 20px 285px 0 335px; font-size: 12px !important; font-family: writing; font-style: italic;}
 
