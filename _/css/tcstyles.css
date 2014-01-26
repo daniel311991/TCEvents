@@ -2,28 +2,14 @@
 @font-face { font-family: Bebas; src: url('../fonts/BEBAS.ttf'); }
 @font-face { font-family: writing; src: url("/..fonts/bell-mt.ttf"); }
 
-/*
 
-.font-bebas {
-	text-align: right;
-
-	/*Font styles
-	color: white;
-	font-family: Bebas, Helvetica, sans-serif;
-	letter-spacing: 3px;
-}*/
-
-.font-bebas-sm {
-	display: block;
-	text-align: right;
-	
+.font-bebas-sm { display: block; text-align: right;
 	/*Font styles*/
 	color: white;
 	font-family: Bebas, Helvetica, sans-serif;
 	font-size: 75%;
 	letter-spacing: 2px;
 	line-height: 24px;
-
 }
 
 .time_lblue { color: #7DCDF3; }
@@ -36,12 +22,12 @@ img.img-responsive { float: left; max-width: 25%; padding: 8px 0 0 0; min-width:
 
 
 /* style for navigation */
-a.navbar-brand { width: 25% ;height: 50%; min-width: 150px;}
+a.navbar-brand { width: 25% ;height: 50%; min-width: 150px; }
 
 ul.navbar-right { padding-top: 33px; }
 
 /* styling for jumbotron */
-h3.font-bebas { padding: 0 0 0 85px; font-family: Bebas; color: white; letter-spacing: 3px; text-align: right;} 
+h3.font-bebas { padding: 0 0 0 85px; font-family: Bebas; color: white; letter-spacing: 3px; text-align: right; } 
 h1.font-bebas { font-family: Bebas; color: black; text-align: center; }
-.jumbotron p{ padding: 20px 285px 0 335px; font-size: 12px !important; font-family: writing; font-style: italic;}
+.jumbotron p{ padding: 20px 300px 0 335px; font-size: 12px !important; font-family: writing; font-style: italic; }
 
