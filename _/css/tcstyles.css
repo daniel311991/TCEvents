@@ -5,15 +5,20 @@
 
 }
 
+/*
+
 .font-bebas {
 	text-align: right;
 
-	/*Font styles*/
+	/*Font styles
 	color: white;
 	font-family: Bebas, Helvetica, sans-serif;
 	letter-spacing: 3px;
+}*/
 
-}
+h3.font-bebas { padding: 0 0 0 85px; font-family: Bebas; color: white; letter-spacing: 3px; text-align: right;} 
+h1.font-bebas { font-family: Bebas; color: black; text-align: center; }
+
 
 .font-bebas-sm {
 	display: block;
@@ -22,31 +27,23 @@
 	/*Font styles*/
 	color: white;
 	font-family: Bebas, Helvetica, sans-serif;
-	font-size: 0.7em;
+	font-size: 75%;
 	letter-spacing: 2px;
 	line-height: 24px;
 
 }
 
-.time_lblue {
-	color: #7DCDF3;
-}
-
-
-.navbar .tcnav {
-
-	float: right;
-	margin-right: 100px;
-}
-
+.time_lblue { color: #7DCDF3; }
 
 /* body fixes navbar overlapping the jumbotron */
 body { padding-top: 5%; }
 
+/* styling for logo image */
+img.img-responsive { float: left; max-width: 25%; padding: 8px 0 0 0; min-width: 60px; }
+
 
 /* style for navigation */
 a.navbar-brand { width: 25% ;height: 50%; min-width: 150px;}
-
 
 ul.navbar-right { padding-top: 33px; }
 
