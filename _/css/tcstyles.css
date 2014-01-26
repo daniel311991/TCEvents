@@ -1,3 +1,38 @@
+/*import Bebas font*/
+@font-face {
+	font-family: Bebas;
+	src: url('../fonts/BEBAS.ttf');
+
+}
+
+.font-bebas {
+	text-align: right;
+
+	/*Font styles*/
+	color: white;
+	font-family: Bebas, Helvetica, sans-serif;
+	letter-spacing: 3px;
+
+}
+
+.font-bebas-sm {
+	display: block;
+	text-align: right;
+	
+	/*Font styles*/
+	color: white;
+	font-family: Bebas, Helvetica, sans-serif;
+	font-size: 0.7em;
+	letter-spacing: 2px;
+	line-height: 24px;
+
+}
+
+.time_lblue {
+	color: #7DCDF3;
+}
+
+
 .navbar .tcnav {
 
 	float: right;
@@ -14,4 +49,5 @@ a.navbar-brand { width: 25% ;height: 50%; min-width: 150px;}
 
 
 ul.navbar-right { padding-top: 33px; }
+
 
