@@ -33,6 +33,11 @@ p.jumbo1 { font-size: 12px !important; font-family: writing; font-style: italic;
 .row1 { margin: auto; width: 503px; padding-top: 25px;}
 .jumbotron { margin-bottom: 0px !important; }
 
+
+@media (min-width: 1200px){
+.col-lg-5 { width: 50% !important; position: relative; min-height: 1px; margin-left: 295px; margin-top: 20px; }
+}
+
 /* styling for jumbotron 2 */
 h1.font-bebas2 { font-family: Bebas; color: inherit; text-align: center; word-spacing: 15px; font-size: 45px !important; }
 h2.font-bebas { font-family: Bebas; color: #eee; font-size: 25px; }
