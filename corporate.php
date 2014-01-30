@@ -7,6 +7,7 @@
     <title>Time Capsule Events | Corporate Tours</title>
 
     <link rel="stylesheet" href="_/css/tcstyles.css">
+    <link rel="stylesheet" href="_/css/corpstyles.css">
     <link rel="stylesheet" href="_/css/bootstrap.css">
 
     <!-- FontAweseome -->
