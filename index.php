@@ -16,7 +16,11 @@
 <body id="home">
 
 <!-- PHP navbar include -->
-    <?php include ('_/includes/navbar.php') ?>
+    <?php 
+        $bg_color = 'dark_red';
+        $svgpath = '_/svg/tc_logo_'.$bg_color.'.svg';
+        include ('_/includes/navbar.php') 
+    ?>
 
         <div id="home_carousel" class="carousel slide">
             <ol class="carousel-indicators">

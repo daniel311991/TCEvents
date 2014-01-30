@@ -8,6 +8,30 @@
 .dark_red { color: #A5313A; }
 .dark_blue { color: #21448D;}
 
+/*background colors for different pages*/
+.bg_lightblue { background-color: #7DCDF3;}
+.bg_pink { background-color: #E8377A;}
+.bg_dark_red { background-color: #A5313A;}
+.bg_dark_blue { background-color: #21448D;}
+
+/*nav hovers*/
+div.navHeaderCollapse ul.lightblue-hover li a:hover {
+	color: #7DCDF3;
+}
+
+div.navHeaderCollapse ul.pink-hover li a:hover {
+	color: #E8377A;
+}
+
+div.navHeaderCollapse ul.dark_red-hover li a:hover {
+	color: #A5313A;
+}
+
+div.navHeaderCollapse ul.dark_blue-hover li a:hover {
+	color: #21448D;
+}
+
+
 .font-bebas {
 	font-family:Bebas, sans-serif;
 }
@@ -58,9 +82,9 @@ ul.navbar-right {
 	padding-top: 33px; 
 }
 
-#home .navbar-nav li a:hover {
+/*#home .navbar-nav li a:hover {
 	color: #A5313A;
-}
+}*/
 
 	/*navbar menu responsive styling*/
 	@media (min-width: 992px) {

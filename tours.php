@@ -17,7 +17,11 @@
 
 
 <!-- PHP navbar include -->
-    <?php include ('_/includes/navbar.php') ?>
+    <?php 
+        $bg_color = 'lightblue';
+        $svgpath = '_/svg/tc_logo_'.$bg_color.'.svg';
+        include ('_/includes/navbar.php') 
+    ?>
 
    
     <div class="jumbotron timeless_msg">
