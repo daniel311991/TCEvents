@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Time Capsule Events | Corporate Tours</title>
+    <title>Time Capsule Events | Corporate Tours Just Trying</title>
 
     <link rel="stylesheet" href="_/css/tcstyles.css">
     <link rel="stylesheet" href="_/css/bootstrap.css">
