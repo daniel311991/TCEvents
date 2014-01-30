@@ -14,42 +14,9 @@
 
 </head>
 <body id="home">
-    <div class="container">
-
-        <div class="navbar navbar-inverse navbar-fixed-top clearfix visible-x">
-            <div class="container">
-
-                <a href="#" class="navbar-brand">
-                  <img src="images/logo3.png" class="img-responsive" alt="Responsive image" > 
-                   <h3 class="font-bebas"><span class="time_lblue">Time</span>Capsule <span class="font-bebas-sm">Events</span></h3>
-                </a>
-
-                <button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>    
-
-                <div class="collapse navbar-collapse navHeaderCollapse">
-
-                    <ul class="nav navbar-nav navbar-right">
-
-                        <li><a href="index.html"><i class="fa fa-home fa-fw"></i> Home</a></li>
-                        <li class="active"><a href="#"><i class="fa fa-suitcase fa-fw"></i> Corporate Tours</a></li>
-                        <li><a href="#"><i class="fa fa-glass fa-fw"></i> Special Events</a></li>
-                        <li><a href="#"><i class="fa fa-book fa-fw"></i> Blog</a></li>
-                        <li><a href="#"><i class="fa fa-quote-right fa-fw"></i> My Story</a></li>
-                        <li><a href="#"><i class="fa fa-phone fa-fw"></i> Contact Us</a></li>
-
-                    </ul>
-
-                </div>    
-
-            </div>    
-        </div> 
-
-
-    </div> <!-- /container -->
+    
+<!-- PHP navbar include -->
+    <?php include ('_/includes/navbar.php') ?>
 
     <div class="jumbotron">
         <div class="container">
@@ -132,11 +99,14 @@
     </div> <!-- /container -->
 
 
-    <div class="navbar navbar-inverse navbar-fixed-bottom">
+    <!-- <div class="navbar navbar-inverse navbar-fixed-bottom">
         <div class="container">
             <p class= "navbar-text">Site built by Daniel and Hanz</p>
         </div>
-    </div> 
+    </div>  -->
+
+<!-- PHP footer include -->
+    <?php include('_/includes/footer.php') ?>
 
 
         <script src="_/js/bootstrap.js"></script>

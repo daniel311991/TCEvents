@@ -15,6 +15,9 @@
 </head>
 <body id="home">
 
+<!-- PHP navbar include -->
+    <?php include ('_/includes/navbar.php') ?>
+
         <div id="home_carousel" class="carousel slide">
             <ol class="carousel-indicators">
                 <li data-target = "#home_carousel" data-slide-to = "0" class = "active"></li>
@@ -31,7 +34,6 @@
 
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
                         <button type="button" class="findout_btn btn btn-info btn-lg"><i class="fa fa-hand-o-right 3x"></i> Find out more</button>
-                        
                         
                     </div>  
                 </div> <!-- end of first item-->
@@ -62,37 +64,8 @@
         </div> <!-- /.home_carousel -->
 
 
-    <div class="container">
 
-        <div class="navbar navbar-inverse navbar-fixed-top clearfix">
-            <div class="container">
-                <a href="index.html" class="navbar-brand">
-                  <img src="_/svg/tc_logo.svg" class="tc_logo img-responsive hidden-xs" alt="Responsive image" />
-                   <h3 class="font-bebas">
-                        <span class="dark_red">Time</span>Capsule<br/><span class="font-bebas-sm">Events</span>
-                    </h3>
-                </a>
-                <button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse" style="margin-top: 30px;">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button> <!-- /.navbar-toggle -->
-
-                <div class="collapse navbar-collapse navHeaderCollapse">
-                    <ul class="nav navbar-nav navbar-right">
-                        <li class="active"><a href="#"><i class="fa fa-sun-o fa-fw"></i> Tours</a></li>
-                        <li><a href="corporate.html"><i class="fa fa-suitcase fa-fw"></i> Corporate Tours</a></li>
-                        <li><a href="#"><i class="fa fa-glass fa-fw"></i> Special Events</a></li>
-                        <li><a href="#"><i class="fa fa-book fa-fw"></i> Blog</a></li>
-                        <li><a href="#"><i class="fa fa-quote-right fa-fw"></i> My Story</a></li>
-                        <li><a href="#"><i class="fa fa-phone fa-fw"></i> Contact Us</a></li>
-                    </ul> <!-- /.navbar-nav -->
-                </div> <!-- /.navHeaderCollapse -->    
-            </div> <!-- /.container -->   
-        </div> <!-- /.navbar-fixed-top -->
-
-    </div> <!-- /.container -->
-
+   
     <div class="jumbotron timeless_msg">
         <div class="container">
 
@@ -247,66 +220,15 @@
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
 
-    <!-- <div class="container blogfeed">
-        <h1 class="font-bebas">Blog Feed</h1>
-        <div class="content row">
-            <div class="first-third col col-lg-4">
-                <h2>First Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-            </div>
-
-            <div class="second-third col col-lg-4">
-                <h2>Second Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-            </div>
-
-            <div class="third-third col col-lg-4">
-                <h2>Third Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-            </div>
-
-        </div> <!-- /.content -->
-    </div> <!-- /.container -->
-
-    <div class="footer">
-        <div class="container">
-
-            <div class="row">
-                <div class="col-md-2 col-md-offset-1">
-                    <p class="footertext">Designed and handmade by Hans and Daniel.</p>
-                </div>
-
-            </div>
-            
-
-
-        </div>
-    </div>
-
 
     <!-- <div class="navbar navbar-inverse navbar-fixed-bottom">
         <div class="container">
             <p class= "navbar-text">Site built by Daniel and Hanz</p>
         </div>
     </div>  -->
+
+<!-- PHP footer include -->
+    <?php include('_/includes/footer.php') ?>
 
      <!-- scripts -->
         <script src="_/js/bootstrap.js"></script>
