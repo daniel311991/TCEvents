@@ -8,6 +8,7 @@
 
     <link rel="stylesheet" href="_/css/tcstyles.css">
     <link rel="stylesheet" href="_/css/bootstrap.css">
+    <link rel="stylesheet" href="_/css/contactstyles.css">
 
     <!-- FontAweseome -->
     <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
