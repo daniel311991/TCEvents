@@ -44,18 +44,18 @@
             <h1 class="font-bebas2">WHY WE&rsquo;RE HERE</h1>
             <div class="row">
                 <div class="jumbo_content col-lg-8 col-lg-offset-2">
-                    <p> Wether it is a formal celebration, a warm home at home event or a grand event, 
+                    <p> Wether it is a formal celebration, a warm home event or a grand event, 
                         we have wedding coordinators to plan and touch up on events such as: 
                     </p>
 
                     <!--<p>Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     </p>-->
-                    <img src="images/cake.png" alt="Responsive image" class="img-responsive">
-                    <img src="images/cupcake.png" alt="Responsive image" class="img-responsive">
-                    <img src="images/anniversiry.jpg" alt="Responsive image" class="img-circle img-responsive">
-                    <img src="images/ring.png" alt="Responsive image" class="img-responsive">
-                    <img src="images/beer.png" alt="Responsive image" class="img-responsive">
-                    <img src="images/christening.jpg" alt="Responsive image" class="img-circle img-responsive">
+                    <img src="images/cake.png" alt="Responsive image" class="img-responsive_social">
+                    <img src="images/cupcake.png" alt="Responsive image" class="img-responsive_social">
+                    <img src="images/beer.png" alt="Responsive image" class="img-responsive_social">
+                    <img src="images/heart.png" alt="Responsive image" class="img-responsive_social">
+                    <img src="images/ring.png" alt="Responsive image" class="img-responsive_social">
+                    <img src="images/cross.png" alt="Responsive image" class="img-responsive_social">
                 </div>
             </div>
         </div> <!-- /.container -->
