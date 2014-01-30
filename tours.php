@@ -28,7 +28,7 @@
         <div class="container">
 
             <div class="jumbo_title">
-                <h1 class="font-bebas big_timeless"><span class="dark_red">TOURS</span></h1>
+                <h1 class="font-bebas big_timeless"><span class="<?php echo $bg_color ?>">TOURS</span></h1>
             </div>
             
             <div class="jumbo_content col col-lg-5">

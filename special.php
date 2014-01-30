@@ -27,7 +27,7 @@
         <div class="container">
 
             <div class="jumbo_title">
-                <h1 class="font-bebas big_timeless"><span class="pink">SPECIAL</span></h1>
+                <h1 class="font-bebas big_timeless"><span class="<?php echo $bg_color ?>">SPECIAL</span></h1>
                 <h1 class="font-bebas">EVENTS</h1>
             </div>
             
