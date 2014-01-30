@@ -7,14 +7,37 @@
 .pink { color: #E8377A;}
 .dark_red { color: #A5313A; }
 .dark_blue { color: #0074D9;}
+.purple { color: #8E6EB0;}
+.orange {color: #F17735;}
 
 /*background colors for different pages*/
 .bg_lightblue { background-color: #7DCDF3 !important;}
 .bg_pink { background-color: #E8377A !important;}
 .bg_dark_red { background-color: #A5313A !important;}
-
 .bg_dark_blue { background-color: #0074D9 !important;}
+.bg_purple { background-color: #8E6EB0 !important;}
+.bg_orange { background-color: #F17735 !important;}
 .bg_white { background-color: #FFF !important;}
+
+/*nav hovers colors*/
+div.navHeaderCollapse ul.lightblue-hover li a:hover {
+	color: #7DCDF3;
+}
+div.navHeaderCollapse ul.pink-hover li a:hover {
+	color: #E8377A;
+}
+div.navHeaderCollapse ul.dark_red-hover li a:hover {
+	color: #A5313A;
+}
+div.navHeaderCollapse ul.dark_blue-hover li a:hover {
+	color: #0074D9;
+}
+div.navHeaderCollapse ul.purple-hover li a:hover {
+	color: #8E6EB0;
+}
+div.navHeaderCollapse ul.orange-hover li a:hover {
+	color: #F17735;
+}
 
 /*fonts styling*/
 .font-bebas-sm { 
@@ -38,19 +61,7 @@ body { padding-top: 5%; }
 
 
 
-/*nav hovers*/
-div.navHeaderCollapse ul.lightblue-hover li a:hover {
-	color: #7DCDF3;
-}
-div.navHeaderCollapse ul.pink-hover li a:hover {
-	color: #E8377A;
-}
-div.navHeaderCollapse ul.dark_red-hover li a:hover {
-	color: #A5313A;
-}
-div.navHeaderCollapse ul.dark_blue-hover li a:hover {
-	color: #0074D9;
-}
+
 
 
 /* style for navigation */
@@ -167,6 +178,7 @@ div.header_msg {
 	text-align: center; 
 	word-spacing: 15px;}
 
+
 p.jumbo1 { font-size: 12px !important; font-family: writing; font-style: italic; max-width: 115%;}
 .row1 { margin: auto; width: 503px; padding-top: 25px;}
 .jumbotron { margin-bottom: 0px !important; }
@@ -236,6 +248,9 @@ button#getstarted:hover {
 div.startsection {
 	padding-top: 70px !important;
 	height: 450px !important;
+
+	/*inset box shadow*/
+	
 }
 
 .startsection .row {

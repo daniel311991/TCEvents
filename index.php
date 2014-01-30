@@ -219,7 +219,7 @@
 
                 </div>
 
-                <button id="getstarted" type="button" class="btn btn-success center-block">Let's Get Started</button>
+                <button id="getstarted" type="button" class="btn btn-success center-block">Let&rsquo;s Get Started</button>
             
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
