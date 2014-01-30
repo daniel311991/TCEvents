@@ -22,7 +22,7 @@
         include ('_/includes/navbar.php') 
     ?>
    
-    <div class="jumbotron timeless_msg">
+    <div class="jumbotron timeless_msg bg_white">
         <div class="container">
 
             <div class="jumbo_title">
@@ -39,7 +39,7 @@
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
 
-    <div class="jumbotron2">
+    <div class="jumbotron2 bg_<?php echo $bg_color ?>">
         <div class="container">
             <h1 class="font-bebas2">WHY WE&rsquo;RE HERE</h1>
             <div class="row">
@@ -73,7 +73,7 @@
         </div> <!-- /.container -->
     </div> <!-- /.jumbotron2-->
 
-    <div class="jumbotron2 blogfeed">
+    <div class="jumbotron2 blogfeed bg_white">
         <div class="container">
 
             <h1 class="font-bebas2">BLOG FEED</h1>
@@ -115,7 +115,7 @@
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
 
-    <div class="jumbotron2 blogfeed">
+    <div class="jumbotron2 blogfeed bg_<?php echo $bg_color ?>">
         <div class="container">
 
             <h1 class="font-bebas2">WHAT WE CAN DO TOGETHER</h1>
@@ -157,7 +157,7 @@
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
 
-    <div class="jumbotron2 startsection">
+    <div class="jumbotron2 startsection bg_white">
         <div class="container">
 
                 <div class="row">

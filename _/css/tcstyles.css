@@ -13,6 +13,8 @@
 .bg_pink { background-color: #E8377A !important;}
 .bg_dark_red { background-color: #A5313A !important;}
 .bg_dark_blue { background-color: #21448D !important;}
+.bg_white { background-color: #FFF !important;}
+
 
 /*nav hovers*/
 div.navHeaderCollapse ul.lightblue-hover li a:hover {
