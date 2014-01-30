@@ -6,13 +6,13 @@
 .lightblue { color: #7DCDF3; }
 .pink { color: #E8377A;}
 .dark_red { color: #A5313A; }
-.dark_blue { color: #21448D;}
+.dark_blue { color: #0074D9;}
 
 /*background colors for different pages*/
 .bg_lightblue { background-color: #7DCDF3 !important;}
 .bg_pink { background-color: #E8377A !important;}
 .bg_dark_red { background-color: #A5313A !important;}
-.bg_dark_blue { background-color: #21448D !important;}
+.bg_dark_blue { background-color: #0074D9 !important;}
 
 /*nav hovers*/
 div.navHeaderCollapse ul.lightblue-hover li a:hover {
@@ -28,7 +28,7 @@ div.navHeaderCollapse ul.dark_red-hover li a:hover {
 }
 
 div.navHeaderCollapse ul.dark_blue-hover li a:hover {
-	color: #21448D;
+	color: #0074D9;
 }
 
 
