@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Index Page</title>
+    <title>Time Capsule Events | Welcome</title>
 
     <link rel="stylesheet" href="_/css/tcstyles.css">
     <link rel="stylesheet" href="_/css/bootstrap.css">
@@ -14,113 +14,114 @@
 
 </head>
 <body id="home">
-    <div class="container">
-        <div id="myCarousel" class="carousel slide">
 
+        <div id="home_carousel" class="carousel slide">
             <ol class="carousel-indicators">
-                <li data-target = "#myCarousel" data-slide-to = "0" class = "active"></li>
-                <li data-target = "#myCarousel" data-slide-to = "1" ></li>
-                <li data-target = "#myCarousel" data-slide-to = "2" ></li>
+                <li data-target = "#home_carousel" data-slide-to = "0" class = "active"></li>
+                <li data-target = "#home_carousel" data-slide-to = "1" ></li>
+                <li data-target = "#home_carousel" data-slide-to = "2" ></li>
             </ol>
 
-            <div class = "carousel-inner">
-
-                <div class = "item active">
+            <div class="carousel-inner">
+                <div class="item active">
                     <img src= "images/turtle.jpg" alt="Turtle" class="img-resposive">
                     <div class="carousel-caption">
-                        <h3>Turtle</h3>
-                    </div>  
-                </div>
+                       
+                        <h1>Tours</h1>
 
-                <div class = "item">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
+                        <button type="button" class="findout_btn btn btn-info btn-lg"><i class="fa fa-hand-o-right 3x"></i> Find out more</button>
+                        
+                        
+                    </div>  
+                </div> <!-- end of first item-->
+                <div class="item">
                     <img src= "images/fish.jpg" alt="Fish" class="img-resposive">
                     <div class="carousel-caption">
-                        <h3>Fish</h3>
+                        <h1>Corporate Tours</h1>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
+                        <button type="button" class="findout_btn btn btn-info btn-lg"><i class="fa fa-hand-o-right 3x"></i> Find out more</button>
                     </div> 
-                </div>
-
-                <div class = "item">
+                </div><!-- end of second item-->
+                <div class="item">
                     <img src= "images/bug.jpg" alt="Bug" class="img-resposive">
                     <div class="carousel-caption">
-                        <h3>Bug</h3>
+                        <h1>Special Events</h1>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
+                        <button type="button" class="findout_btn btn btn-info btn-lg"><i class="fa fa-hand-o-right 3x"></i> Find out more</button>
                     </div> 
-                </div>
+                </div><!-- end of third item-->
+             </div> <!-- /.carousel-inner -->
 
-             </div>
-
-            <a class="carousel-control left" href="#myCarousel" data-slide = "prev">
+            <a class="carousel-control left" href="#home_carousel" data-slide = "prev">
                 <span class="icon-prev left"></span>
             </a>
-
-            <a class="carousel-control right" href="#myCarousel" data-slide = "next">
+            <a class="carousel-control right" href="#home_carousel" data-slide = "next">
                 <span class="icon-next right"></span>
             </a>
-
-        </div> <!-- end of myCarousel -->
-    </div>
+        </div> <!-- /.home_carousel -->
 
 
     <div class="container">
 
         <div class="navbar navbar-inverse navbar-fixed-top clearfix">
-            
             <div class="container">
-
                 <a href="index.html" class="navbar-brand">
-                  <img src="images/logo3.png" class="tc_logo img-responsive hidden-xs" alt="Responsive image" />
-
+                  <img src="_/svg/tc_logo.svg" class="tc_logo img-responsive hidden-xs" alt="Responsive image" />
                    <h3 class="font-bebas">
-                        <span class="lightblue">Time</span>Capsule<br/><span class="font-bebas-sm">Events</span>
+                        <span class="dark_red">Time</span>Capsule<br/><span class="font-bebas-sm">Events</span>
                     </h3>
                 </a>
-
                 <button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse" style="margin-top: 30px;">
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
-                </button>    
+                </button> <!-- /.navbar-toggle -->
 
                 <div class="collapse navbar-collapse navHeaderCollapse">
-
                     <ul class="nav navbar-nav navbar-right">
-
-                        <li class="active"><a href="#"><i class="fa fa-home fa-fw"></i> Home</a></li>
+                        <li class="active"><a href="#"><i class="fa fa-sun-o fa-fw"></i> Tours</a></li>
                         <li><a href="corporate.html"><i class="fa fa-suitcase fa-fw"></i> Corporate Tours</a></li>
                         <li><a href="#"><i class="fa fa-glass fa-fw"></i> Special Events</a></li>
                         <li><a href="#"><i class="fa fa-book fa-fw"></i> Blog</a></li>
                         <li><a href="#"><i class="fa fa-quote-right fa-fw"></i> My Story</a></li>
                         <li><a href="#"><i class="fa fa-phone fa-fw"></i> Contact Us</a></li>
+                    </ul> <!-- /.navbar-nav -->
+                </div> <!-- /.navHeaderCollapse -->    
+            </div> <!-- /.container -->   
+        </div> <!-- /.navbar-fixed-top -->
 
-                    </ul>
+    </div> <!-- /.container -->
 
-                </div>    
-
-            </div>    
-        </div> 
-
-
-    </div> <!-- /container -->
-
-    <div class="jumbotron">
+    <div class="jumbotron timeless_msg">
         <div class="container">
-            <h1 class="font-bebas">TIME TO REJUVINATE</h1>
-            <h1 class="font-bebas">SWITCH OFF</h1>
-            <h1 class="font-bebas">TOGETHER</h1>
+
+            <div class="jumbo_title">
+                <h1 class="font-bebas">WE MAKE EVENTS</h1>
+                <h1 class="font-bebas big_timeless"><span class="dark_red">TIME</span>LESS</h1>
+            </div>
             
-            <div class="first-second col col-lg-5">
-                        <p class="jumbo2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat.</p>
-                </div>
-        </div>
-    </div> <!-- /jumbotron 1-->
+            <div class="jumbo_content col col-lg-5">
+                <p><span class="dark_red">&lsquo;I will remember this forever&rsquo;</span> is the soul and heart of the events we make.
+                Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                consequat.</p>
+            </div>
+        </div> <!-- /.container-->
+    </div> <!-- /.jumbotron-->
 
     <div class="jumbotron2">
         <div class="container">
-            <h1 class="font-bebas2">ABOUT CORPORATE TOURS</h1>
-            <div class="row2">
-                <div class="first-second col col-lg-2">
+            <h1 class="font-bebas2">WHY WE&rsquo;RE HERE</h1>
+            <div class="row">
+                <div class="jumbo_content col-lg-8 col-lg-offset-2">
+                    <p> We&rsquo;re here because we <em>love</em> events and we do them well. Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    </p>
+
+                    <p>Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    </p>
+                </div>
+                <!-- <div class="first-second col col-lg-2">
                     <h2 class="font-bebas">What it is</h2>
                         <p class="jumbo2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -138,12 +139,116 @@
                         consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                         proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                </div>
+                </div> -->
             </div>
-        </div>
-    </div> <!-- /jumbotron 2-->
+        </div> <!-- /.container -->
+    </div> <!-- /.jumbotron2-->
 
-    <div class="container">
+    <div class="jumbotron2 blogfeed">
+        <div class="container">
+
+            <h1 class="font-bebas2">BLOG FEED</h1>
+            
+            <div class="jumbo_content">
+               <div class="first-third col col-lg-4">
+                <h2>First Section</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+            </div>
+
+            <div class="second-third col col-lg-4">
+                <h2>Second Section</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+            </div>
+
+            <div class="third-third col col-lg-4">
+                <h2>Third Section</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+            </div>
+            </div>
+        </div> <!-- /.container-->
+    </div> <!-- /.jumbotron-->
+
+    <div class="jumbotron2 blogfeed">
+        <div class="container">
+
+            <h1 class="font-bebas2">WHAT WE CAN DO TOGETHER</h1>
+            
+            <div class="jumbo_content">
+               <div class="first-third col col-lg-4">
+                <h2>First Section</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+            </div>
+
+            <div class="second-third col col-lg-4">
+                <h2>Second Section</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+            </div>
+
+            <div class="third-third col col-lg-4">
+                <h2>Third Section</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+            </div>
+            </div>
+        </div> <!-- /.container-->
+    </div> <!-- /.jumbotron-->
+
+    <div class="jumbotron2 startsection">
+        <div class="container">
+
+                <div class="row">
+                    <div class="col-md-4 col-md-offset-4">
+                         <img src="_/svg/tc_nyou.svg" class="tcnyou" alt="Responsive image" />
+                         <h1 class="font-bebas">& YOU </h1>
+                        
+                    </div>
+                         
+
+
+                </div>
+
+                <button id="getstarted" type="button" class="btn btn-success center-block">Let's Get Started</button>
+            
+        </div> <!-- /.container-->
+    </div> <!-- /.jumbotron-->
+
+    <!-- <div class="container blogfeed">
+        <h1 class="font-bebas">Blog Feed</h1>
         <div class="content row">
             <div class="first-third col col-lg-4">
                 <h2>First Section</h2>
@@ -178,8 +283,23 @@
 
             </div>
 
-        </div> <!-- /content -->
-    </div> <!-- /container -->
+        </div> <!-- /.content -->
+    </div> <!-- /.container -->
+
+    <div class="footer">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-md-2 col-md-offset-1">
+                    <p class="footertext">Designed and handmade by Hans and Daniel.</p>
+                </div>
+
+            </div>
+            
+
+
+        </div>
+    </div>
 
 
     <!-- <div class="navbar navbar-inverse navbar-fixed-bottom">
@@ -188,7 +308,7 @@
         </div>
     </div>  -->
 
-
+     <!-- scripts -->
         <script src="_/js/bootstrap.js"></script>
         <script src="_/js/tcscripts.js"></script>
     </body>
