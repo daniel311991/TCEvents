@@ -139,22 +139,6 @@
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
 
-    <div class="jumbotron2 startsection bg_white">
-        <div class="container">
-
-                <div class="row">
-                    <div class="col-md-4 col-md-offset-4">
-                         <img src="_/svg/tc_nyou.svg" class="tcnyou" alt="Responsive image" />
-                         <h1 class="font-bebas">& YOU </h1>
-                        
-                    </div>
-                </div>
-
-                <button id="getstarted" type="button" class="btn btn-success center-block">Let's Get Started</button>
-            
-        </div> <!-- /.container-->
-    </div> <!-- /.jumbotron-->
-
 <!-- PHP footer include -->
     <?php include('_/includes/footer.php') ?>
 

@@ -164,7 +164,7 @@
 
                 <div class="row">
                     <div class="col-md-4 col-md-offset-4">
-                         <img src="_/svg/tc_nyou.svg" class="tcnyou" alt="Responsive image" />
+                         <img src="<?php echo $svgpath ?>" class="tcnyou" alt="Responsive image" />
                          <h1 class="font-bebas">& YOU </h1>
                         
                     </div>
