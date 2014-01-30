@@ -23,7 +23,7 @@
     ?>
 
    
-    <div class="jumbotron timeless_msg bg_white">
+    <div class="jumbotron header_msg bg_white">
         <div class="container">
 
             <div class="jumbo_title">

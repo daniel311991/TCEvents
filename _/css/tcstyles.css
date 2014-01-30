@@ -16,7 +16,25 @@
 .bg_dark_blue { background-color: #0074D9 !important;}
 .bg_white { background-color: #FFF !important;}
 
+/*fonts styling*/
+.font-bebas-sm { 
+	display: block; 
+	text-align: right;
 
+	/*Font styles*/
+	color: white;
+	font-family: Bebas, Helvetica, sans-serif;
+	font-size: 75%;
+	letter-spacing: 2px;
+	line-height: 24px;
+}
+
+.font-bebas {
+	font-family:Bebas, sans-serif;
+}
+
+/* body fixes navbar overlapping the jumbotron */
+body { padding-top: 5%; }
 
 
 
@@ -33,27 +51,6 @@ div.navHeaderCollapse ul.dark_red-hover li a:hover {
 div.navHeaderCollapse ul.dark_blue-hover li a:hover {
 	color: #0074D9;
 }
-
-
-.font-bebas {
-	font-family:Bebas, sans-serif;
-}
-
-/*fonts styling*/
-.font-bebas-sm { 
-	display: block; 
-	text-align: right;
-
-	/*Font styles*/
-	color: white;
-	font-family: Bebas, Helvetica, sans-serif;
-	font-size: 75%;
-	letter-spacing: 2px;
-	line-height: 24px;
-}
-
-/* body fixes navbar overlapping the jumbotron */
-body { padding-top: 5%; }
 
 
 /* style for navigation */
@@ -148,26 +145,21 @@ ul.navbar-right {
 	border-bottom: 3px solid #269abc !important;
 }
 
-
-
 /*end of carousel styling*/
 
 
-/* styling for jumbotron 1 */
+/* styling for jumbotrons */
 
-
-
-
-div.timeless_msg {
+div.header_msg {
 	height: 850px;
 	padding-top: 150px;
 	background-color: 
 }
 
-.timeless_msg h1.font-bebas.big_timeless {
+.header_msg h1.font-bebas.big_timeless {
 	font-size: 11.3em;
 }
-.timeless_msg h1.font-bebas {
+.header_msg h1.font-bebas {
 
 	font-size: 6em; 
 	font-family: Bebas; 
