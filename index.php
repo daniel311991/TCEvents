@@ -213,23 +213,12 @@
                          <img src="<?php echo $svgpath ?>" class="tcnyou" alt="Responsive image" />
                          <h1 class="font-bebas">& YOU </h1>
                         
-                    </div>
-                         
-
-
+                    </div>     
                 </div>
 
                 <button id="getstarted" type="button" class="btn btn-success center-block">Let&rsquo;s Get Started</button>
-            
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
-
-
-    <!-- <div class="navbar navbar-inverse navbar-fixed-bottom">
-        <div class="container">
-            <p class= "navbar-text">Site built by Daniel and Hanz</p>
-        </div>
-    </div>  -->
 
 <!-- PHP footer include -->
     <?php include('_/includes/footer.php') ?>
@@ -237,6 +226,8 @@
      <!-- scripts -->
         <script src="_/js/bootstrap.js"></script>
         <script src="_/js/tcscripts.js"></script>
+        
+
     </body>
 
-    </html>
+</html>
