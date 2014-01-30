@@ -1,0 +1,38 @@
+
+
+
+/*jumbotron styles*/
+
+.tours_about h3.font-bebas {
+	margin-top: 70px;
+}
+
+p.pkg_desc {
+	font-size: 1.4em !important;
+	margin-bottom: 40px;
+}
+
+img.pkg_icons {
+	height: 30px !important;
+	display: inline-block;
+	margin-bottom: 9px;
+
+}
+
+.pkg_info {
+	display: inline-block;
+	word-spacing: 0.1em;
+}
+
+.pkg_info_sm {
+	font-size: 0.6em;
+	margin-left: 5px;
+}
+
+.pkg_thumb_pic {
+	margin-top: 50px;
+}
+
+div.tours_packages {
+	height: 1400px !important;
+}

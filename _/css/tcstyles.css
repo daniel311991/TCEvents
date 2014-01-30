@@ -132,6 +132,7 @@ ul.navbar-right {
 .carousel-caption {
 	margin-bottom: 300px;
 	background-color: rgba(30,30,30,0.5);
+	padding: 0px 20px;
 	}
 
 
@@ -250,7 +251,7 @@ div.startsection {
 	height: 450px !important;
 
 	/*inset box shadow*/
-	
+
 }
 
 .startsection .row {

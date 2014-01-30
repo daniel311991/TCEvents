@@ -33,84 +33,77 @@
             </div>
             
             <div class="jumbo_content col col-lg-5">
-                <p><span class="dark_red">&lsquo;I will remember this forever&rsquo;</span> is the soul and heart of the events we make.
-                Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat.</p>
+                <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts.</p>
             </div>
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
 
-    <div class="jumbotron2 bg_<?php echo $bg_color ?>">
+    <div class="jumbotron2 tours_about bg_<?php echo $bg_color ?>">
         <div class="container">
-            <h1 class="font-bebas2">WHY WE&rsquo;RE HERE</h1>
+            <h1 class="font-bebas2">ABOUT OUR TOURS</h1>
             <div class="row">
                 <div class="jumbo_content col-lg-8 col-lg-offset-2">
-                    <p> We&rsquo;re here because we <em>love</em> events and we do them well. Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    
+                    <p> A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to.
                     </p>
 
-                    <p>Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    <h3 class="font-bebas">HOW IT WORKS</h3>
+                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia.
                     </p>
                 </div>
-                <!-- <div class="first-second col col-lg-2">
-                    <h2 class="font-bebas">What it is</h2>
-                        <p class="jumbo2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                </div>
-            
-                <div class="second-second col col-lg-3">
-                    <h2 class="font-bebas">How it works ?</h2>
-                        <p class="jumbo2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                </div> -->
             </div>
         </div> <!-- /.container -->
     </div> <!-- /.jumbotron2-->
 
-    <div class="jumbotron2 blogfeed bg_white">
+    <div class="jumbotron2 tours_packages blogfeed bg_white">
         <div class="container">
 
-            <h1 class="font-bebas2">BLOG FEED</h1>
+            <h1 class="font-bebas2">TOUR PACKAGES</h1>
             
             <div class="jumbo_content">
                <div class="first-third col col-lg-4">
-                <h2>First Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+                <h2>Brisbane From A Local's Eye</h2>
+                <p class="pkg_desc">Why stay in the building Y, office X while you can take a day to enjoy the real Brisbane. Relax, meet the locals, sight see and say G’day to a Riverside Cruise that takes you into a wonderful cafe. Then end your day with a laugh at a sit down comedy.</p>
+
+                <img class="pkg_icons" src="_/svg/time-icon.svg" alt="Icon of a sun" style="margin-top:3px;"/>
+                <h4 class="pkg_info font-bebas">A Saturday Tour</h4>
+                <br/>
+                <img class="pkg_icons" src="_/svg/cost-icon.svg" alt="Icon of a sun" />
+                <h4 class="pkg_info font-bebas">$89.00<span class="pkg_info_sm">per person</span></h4>
+
+                <img class="pkg_thumb_pic img-circle" src="http://placeimg.com/340/342/arch" alt="Image of Brisbane" />
 
             </div>
 
             <div class="second-third col col-lg-4">
-                <h2>Second Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                
+                <img class="pkg_thumb_pic img-circle" src="http://placeimg.com/340/340/nature" alt="Image of Brisbane" />
+                
+                <h2>Adventures You In The Sunshine State</h2>
+                <p class="pkg_desc">Day one, we take on the beautiful Brisbane, Climb the Bridge, go Hiking, sight scene and cruising around the river side. Day 2: We then head to 0'Reilly’s Canungra Valley, enjoy Fine dinning and wine from the boutique vineyard, waterfalls and a Stay in the heritage building. Day 3 we head to the coast and take on Surfing at the Coast after a long day of Sun-baking at the beach we drive back to Brisbane and enjoy the nice view of My Cotta.</p>
+
+                <img class="pkg_icons" src="_/svg/time-icon.svg" alt="Icon of a sun" style="margin-bottom: 24px;"/>
+                <h4 class="pkg_info font-bebas">A 3 Day, 1 Night Tour. <br/><span style="font-size: 0.8em;">incl. 1 day stay at the Hunter Valley</span></h4>
+                <br/>
+                <img class="pkg_icons" src="_/svg/cost-icon.svg" alt="Icon of a sun" />
+                <h4 class="pkg_info font-bebas">$580.00<span class="pkg_info_sm">per person</span></h4>
 
             </div>
 
             <div class="third-third col col-lg-4">
-                <h2>Third Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+                <img class="pkg_thumb_pic img-circle" src="http://placeimg.com/340/340/any" alt="Image of Brisbane" />
+
+                <h2>I Want My Family To Be There</h2>
+                <p class="pkg_desc">Make memories, where everyone can tell a story that has you in it. take the kids and head place where you can ali have fun. Brisbane and the coast.</p>
+
+                <img class="pkg_icons" src="_/svg/time-icon.svg" alt="Icon of a sun" style="margin-bottom: 8px;"/>
+                <h4 class="pkg_info font-bebas">1 Day Tour.</h4>
+                <br/>
+                <img class="pkg_icons" src="_/svg/cost-icon.svg" alt="Icon of a sun" style="margin-bottom: 24px;"/>
+                <h4 class="pkg_info font-bebas">$90.00<span class="pkg_info_sm">per person</span><br/>
+                    $70.00<span class="pkg_info_sm">for children</span></h4>
 
             </div>
             </div>
@@ -120,11 +113,11 @@
     <div class="jumbotron2 blogfeed bg_<?php echo $bg_color ?>">
         <div class="container">
 
-            <h1 class="font-bebas2">WHAT WE CAN DO TOGETHER</h1>
+            <h1 class="font-bebas2">TAILORED TOURS</h1>
             
             <div class="jumbo_content">
                <div class="first-third col col-lg-4">
-                <h2>First Section</h2>
+                <h2>For You or a Group</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -135,7 +128,7 @@
             </div>
 
             <div class="second-third col col-lg-4">
-                <h2>Second Section</h2>
+                <h2>Mix and Match</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -146,7 +139,7 @@
             </div>
 
             <div class="third-third col col-lg-4">
-                <h2>Third Section</h2>
+                <h2>An Exclusive Item</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
