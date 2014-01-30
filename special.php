@@ -7,6 +7,7 @@
     <title>Time Capsule Events | Welcome</title>
 
     <link rel="stylesheet" href="_/css/tcstyles.css">
+    <link rel="stylesheet" href="_/css/specialstyles.css">
     <link rel="stylesheet" href="_/css/bootstrap.css">
 
     <!-- FontAweseome -->
