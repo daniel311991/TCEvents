@@ -52,25 +52,6 @@
                     <p>Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     </p>
                 </div>
-                <!-- <div class="first-second col col-lg-2">
-                    <h2 class="font-bebas">What it is</h2>
-                        <p class="jumbo2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                </div>
-            
-                <div class="second-second col col-lg-3">
-                    <h2 class="font-bebas">How it works ?</h2>
-                        <p class="jumbo2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                </div> -->
             </div>
         </div> <!-- /.container -->
     </div> <!-- /.jumbotron2-->
@@ -164,13 +145,10 @@
 
                 <div class="row">
                     <div class="col-md-4 col-md-offset-4">
-                         <img src="_/svg/tc_nyou.svg" class="tcnyou" alt="Responsive image" />
+                         <img src="<?php echo $svgpath ?>" class="tcnyou" alt="Responsive image" />
                          <h1 class="font-bebas">& YOU </h1>
                         
                     </div>
-                         
-
-
                 </div>
 
                 <button id="getstarted" type="button" class="btn btn-success center-block">Let's Get Started</button>
@@ -178,55 +156,8 @@
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
 
-    <!-- <div class="container blogfeed">
-        <h1 class="font-bebas">Blog Feed</h1>
-        <div class="content row">
-            <div class="first-third col col-lg-4">
-                <h2>First Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-            </div>
-
-            <div class="second-third col col-lg-4">
-                <h2>Second Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-            </div>
-
-            <div class="third-third col col-lg-4">
-                <h2>Third Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-            </div>
-
-        </div> <!-- /.content -->
-    </div> <!-- /.container -->
-
-
 <!-- PHP footer include -->
     <?php include('_/includes/footer.php') ?>
-
-
-    <!-- <div class="navbar navbar-inverse navbar-fixed-bottom">
-        <div class="container">
-            <p class= "navbar-text">Site built by Daniel and Hanz</p>
-        </div>
-    </div>  -->
 
      <!-- scripts -->
         <script src="_/js/bootstrap.js"></script>
