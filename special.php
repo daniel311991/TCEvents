@@ -50,12 +50,30 @@
 
                     <!--<p>Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     </p>-->
-                    <img src="images/cake.png" alt="Responsive image" class="img-responsive_social">
-                    <img src="images/cupcake.png" alt="Responsive image" class="img-responsive_social">
-                    <img src="images/beer.png" alt="Responsive image" class="img-responsive_social">
-                    <img src="images/heart.png" alt="Responsive image" class="img-responsive_social">
-                    <img src="images/ring.png" alt="Responsive image" class="img-responsive_social">
-                    <img src="images/cross.png" alt="Responsive image" class="img-responsive_social">
+                    <div class="icon_container">
+                        <img src="images/cake.png" alt="Responsive image" class="img-responsive_social">
+                        <p>Birthdays</p>
+                    </div>
+                    <div class="icon_container">
+                        <img src="images/cupcake.png" alt="Responsive image" class="img-responsive_social">
+                        <p>Birthdays</p>
+                    </div>
+                    <div class="icon_container">
+                        <img src="images/beer.png" alt="Responsive image" class="img-responsive_social">
+                        <p>Birthdays</p>
+                    </div>
+                    <div class="icon_container">
+                        <img src="images/heart.png" alt="Responsive image" class="img-responsive_social">
+                        <p>Birthdays</p>
+                    </div>
+                    <div class="icon_container">
+                        <img src="images/ring.png" alt="Responsive image" class="img-responsive_social">
+                        <p>Birthdays</p>
+                    </div>
+                    <div class="icon_container">
+                        <img src="images/cross.png" alt="Responsive image" class="img-responsive_social">
+                        <p>Birthdays</p>
+                    </div>
                 </div>
             </div>
         </div> <!-- /.container -->

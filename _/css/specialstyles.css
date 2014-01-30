@@ -3,9 +3,15 @@ h1.font-bebas2 {
 }
 
 .img-responsive_social {
-display: inline;
-max-width: 7%;
-height: auto;
-margin-left: 55px;
-padding-top: 40px;
+	display: inline;
+	max-width: 7%;
+	height: auto;
+	margin-left: 55px;
+	padding-top: 40px;
+}
+
+div.icon_container	{
+	width: auto;
+	height: 150px;
+	float: left;
 }
