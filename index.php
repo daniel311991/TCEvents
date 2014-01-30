@@ -75,7 +75,7 @@
 
             <div class="jumbo_title">
                 <h1 class="font-bebas">WE MAKE EVENTS</h1>
-                <h1 class="font-bebas big_timeless"><span class="dark_red">TIME</span>LESS</h1>
+                <h1 class="font-bebas big_timeless"><span class="<?php echo $bg_color ?>">TIME</span>LESS</h1>
             </div>
             
             <div class="jumbo_content col col-lg-5">
