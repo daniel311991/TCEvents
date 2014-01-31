@@ -52,28 +52,28 @@
                     </p>-->
                    
                         <div class="col-md-4">
-                             <img src="images/cake.png" alt="Responsive image" class="img-responsive_social">
-                              <p class="names_service">Birthdays</p>
+                             <img src="_/svg/tc_cake.svg" alt="Responsive image" class="img-responsive_social">
+                              <h3 class="names_service">Birthdays</h3>
                         </div>
                         <div class="col-md-4">
-                                <img src="images/cupcake.png" alt="Responsive image" class="img-responsive_social">
-                                 <p class="names_service">Kids Birthdays</p>
+                                <img src="_/svg/tc_cupcake.svg" alt="Responsive image" class="img-responsive_social">
+                                 <h3 class="names_service">Kids Birthdays</h3>
                         </div>
                         <div class="col-md-4">
-                             <img src="images/beer.png" alt="Responsive image" class="img-responsive_social">
-                             <p class="names_service">Buks/Hens Party</p>
+                              <img src="_/svg/tc_cross.svg" alt="Responsive image" class="img-responsive_social">
+                             <h3 class="names_service">Buks/Hens Party</h3>
                         </div>
                         <div class="col-md-4">
-                             <img src="images/heart.png" alt="Responsive image" class="img-responsive_social">
-                              <p class="names_service">Anniversary</p>
+                              <img src="_/svg/tc_heart.svg" alt="Responsive image" class="img-responsive_social">
+                              <h3 class="names_service">Anniversary</h3>
                         </div>
                         <div class="col-md-4">
-                             <img src="images/ring.png" alt="Responsive image" class="img-responsive_social">
-                             <p class="names_service">Engagements</p>
+                             <img src="_/svg/tc_ring.svg" alt="Responsive image" class="img-responsive_social">
+                             <h3 class="names_service">Engagements</h3>
                         </div>
                         <div class="col-md-4">
-                             <img src="images/cross.png" alt="Responsive image" class="img-responsive_social">
-                             <p class="names_service">Christening</p>
+                             <img src="_/svg/tc_glass.svg" alt="Responsive image" class="img-responsive_social">
+                             <h3 class="names_service">Christening</h3>
                         </div>
 
                   
