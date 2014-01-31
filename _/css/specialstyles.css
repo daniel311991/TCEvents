@@ -4,8 +4,11 @@ h1.font-bebas2 {
 
 .img-responsive_social {
 	display: inline;
-	
-	margin-left: 55px;
-	padding-top: 40px;
+	max-width: 150px;
+	padding-top: 25px;
+	margin-left: 30px;
 }
 
+h3.names_service { 
+	text-align: center;
+ }

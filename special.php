@@ -61,19 +61,19 @@
                         </div>
                         <div class="col-md-4">
                               <img src="_/svg/cross.svg" alt="Responsive image" class="img-responsive_social">
-                             <h3 class="names_service">Buks/Hens Party</h3>
+                             <h3 class="names_service">Christening</h3>
                         </div>
                         <div class="col-md-4">
-                              <img src="_/svg/heart.svg" alt="Responsive image" class="img-responsive_social">
-                              <h3 class="names_service">Anniversary</h3>
+                              <img src="_/svg/glass.svg" alt="Responsive image" class="img-responsive_social">
+                              <h3 class="names_service">Hens/Buks Party</h3>
                         </div>
                         <div class="col-md-4">
                              <img src="_/svg/ring.svg" alt="Responsive image" class="img-responsive_social">
                              <h3 class="names_service">Engagements</h3>
                         </div>
                         <div class="col-md-4">
-                             <img src="_/svg/glass.svg" alt="Responsive image" class="img-responsive_social">
-                             <h3 class="names_service">Christening</h3>
+                             <img src="_/svg/heart.svg" alt="Responsive image" class="img-responsive_social">
+                             <h3 class="names_service">Anniversary</h3>
                         </div>
 
                   
