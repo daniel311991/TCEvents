@@ -50,33 +50,33 @@
 
                     <!--<p>Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     </p>-->
-                    <div class="row">
-                        <div class=".col-md-3 .col-md-offset-3">
+                   
+                        <div class="col-md-4">
                              <img src="images/cake.png" alt="Responsive image" class="img-responsive_social">
                               <p class="names_service">Birthdays</p>
                         </div>
-                        <div class=".col-md-3 .col-md-offset-3">
+                        <div class="col-md-4">
                                 <img src="images/cupcake.png" alt="Responsive image" class="img-responsive_social">
                                  <p class="names_service">Kids Birthdays</p>
                         </div>
-                        <div class=".col-md-3 .col-md-offset-3">
+                        <div class="col-md-4">
                              <img src="images/beer.png" alt="Responsive image" class="img-responsive_social">
                              <p class="names_service">Buks/Hens Party</p>
                         </div>
-                        <div class=".col-md-3 .col-md-offset-3">
+                        <div class="col-md-4">
                              <img src="images/heart.png" alt="Responsive image" class="img-responsive_social">
                               <p class="names_service">Anniversary</p>
                         </div>
-                        <div class=".col-md-3 .col-md-offset-3">
+                        <div class="col-md-4">
                              <img src="images/ring.png" alt="Responsive image" class="img-responsive_social">
                              <p class="names_service">Engagements</p>
                         </div>
-                        <div class=".col-md-3 .col-md-offset-3">
+                        <div class="col-md-4">
                              <img src="images/cross.png" alt="Responsive image" class="img-responsive_social">
                              <p class="names_service">Christening</p>
                         </div>
 
-                    </div>    
+                  
             
                 </div>
             </div>
