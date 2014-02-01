@@ -2,6 +2,71 @@
 @font-face { font-family: Bebas; src: url('../fonts/BEBAS.ttf'); }
 @font-face { font-family: writing; src: url("/..fonts/bell-mt.ttf"); }
 
+/* -------------------------------- */
+/* ---------- GLOBAL STYLES ------- */
+/* -------------------------------- */
+
+/* body fixes navbar overlapping the jumbotron */
+body { padding-top: 5%; }
+
+.jumbotron { 
+	margin-bottom: 0px; 
+	padding-top: 150px !important; /*override bootstrap*/ 
+	height: 850px;
+	margin-bottom: 0px !important; /*override bootstrap*/ 
+}
+
+/*.jumbotron2 { 
+	height: 850px;
+	padding-top: 150px; 
+	color: inherit; 
+}
+
+.jumbotron2 .jumbo_content p {
+	margin-top: 40px;
+}*/
+
+h1.font-bebas2 { 
+	font-family: Bebas; 
+	color: inherit;
+	text-align: center; 
+	word-spacing: 15px; 
+	font-size: 70px; }
+
+h2.font-bebas { font-family: Bebas; 
+	font-size: 25px; 
+}
+
+div.jumbo_content p { 
+	font-family: writing, serif; 
+	font-style: normal;
+	margin-top: 40px;
+}
+
+/*fonts styling*/
+.font-bebas-sm { 
+	display: block; 
+	text-align: right;
+
+	/*Font styles*/
+	color: white;
+	font-family: Bebas, Helvetica, sans-serif;
+	font-size: 75%;
+	letter-spacing: 2px;
+	line-height: 24px;
+}
+
+.font-bebas { font-family:Bebas, sans-serif; }
+
+.big_p {
+	font-size: 24px !important; /*overriding bootstrap*/
+}
+
+.small_p {
+	font-size: 1.2em !important; /*overriding bootstrap*/
+}
+
+
 /*colors*/
 .lightblue { color: #7DCDF3; }
 .pink { color: #E8377A;}
@@ -39,25 +104,7 @@ div.navHeaderCollapse ul.orange-hover li a:hover {
 	color: #F17735;
 }
 
-/*fonts styling*/
-.font-bebas-sm { 
-	display: block; 
-	text-align: right;
 
-	/*Font styles*/
-	color: white;
-	font-family: Bebas, Helvetica, sans-serif;
-	font-size: 75%;
-	letter-spacing: 2px;
-	line-height: 24px;
-}
-
-.font-bebas {
-	font-family:Bebas, sans-serif;
-}
-
-/* body fixes navbar overlapping the jumbotron */
-body { padding-top: 5%; }
 
 /* -------------------------------- */
 /* ---------- NAVIGATION ---------- */
@@ -164,48 +211,6 @@ ul.navbar-right {
 /* ---------- JUMBOTRONS ---------- */
 /* -------------------------------- */
 
-.jumbotron { 
-	margin-bottom: 0px; 
-	padding-top: 150px !important; /*override bootstrap*/ 
-	height: 850px;
-	margin-bottom: 0px !important; /*override bootstrap*/ 
-}
-
-/*.jumbotron2 { 
-	height: 850px;
-	padding-top: 150px; 
-	color: inherit; 
-}
-
-.jumbotron2 .jumbo_content p {
-	margin-top: 40px;
-}*/
-
-h1.font-bebas2 { 
-	font-family: Bebas; 
-	color: inherit;
-	text-align: center; 
-	word-spacing: 15px; 
-	font-size: 70px; }
-
-h2.font-bebas { font-family: Bebas; 
-	font-size: 25px; 
-}
-
-div.jumbo_content p { 
-	font-family: writing, serif; 
-	font-style: normal;
-	margin-top: 40px;
-}
-
-.big_p {
-	font-size: 24px !important; /*overriding bootstrap*/
-}
-
-.small_p {
-	font-size: 1.2em !important; /*overriding bootstrap*/
-}
-
 
 /* title pages */
 .header_msg {
@@ -227,6 +232,8 @@ div.jumbo_content p {
 
 .header_msg p {
 	margin-top: 40px;
+	min-width: 525px;
+	text-align: center;
 }
 
 
