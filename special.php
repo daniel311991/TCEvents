@@ -56,23 +56,23 @@
                               <h3 class="names_service">Birthdays</h3>
                         </div>
                         <div class="col-md-4">
-                                <img src="_/svg/cupcake.svg" alt="Responsive image" class="img-responsive_social">
+                                <img src="_/svg/cupcake_copy.svg" alt="Responsive image" class="img-responsive_social">
                                  <h3 class="names_service">Kids Birthdays</h3>
                         </div>
                         <div class="col-md-4">
-                              <img src="_/svg/cross.svg" alt="Responsive image" class="img-responsive_social">
+                              <img src="_/svg/cross_copy.svg" alt="Responsive image" class="img-responsive_social">
                              <h3 class="names_service">Christening</h3>
                         </div>
                         <div class="col-md-4">
-                              <img src="_/svg/glass.svg" alt="Responsive image" class="img-responsive_social">
+                              <img src="_/svg/glass_copy.svg" alt="Responsive image" class="img-responsive_social">
                               <h3 class="names_service">Hens/Buks Party</h3>
                         </div>
                         <div class="col-md-4">
-                             <img src="_/svg/ring.svg" alt="Responsive image" class="img-responsive_social">
+                             <img src="_/svg/ring_copy.svg" alt="Responsive image" class="img-responsive_social">
                              <h3 class="names_service">Engagements</h3>
                         </div>
                         <div class="col-md-4">
-                             <img src="_/svg/heart.svg" alt="Responsive image" class="img-responsive_social">
+                             <img src="_/svg/heart_copy.svg" alt="Responsive image" class="img-responsive_social">
                              <h3 class="names_service">Anniversary</h3>
                         </div>
 
