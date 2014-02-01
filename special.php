@@ -39,7 +39,7 @@
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
 
-    <div class="jumbotron2 bg_<?php echo $bg_color ?>">
+    <div class="jumbotron2 special_why bg_<?php echo $bg_color ?>">
         <div class="container">
             <h1 class="font-bebas2">WHY WE&rsquo;RE HERE</h1>
             <div class="row">
