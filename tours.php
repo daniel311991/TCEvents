@@ -40,15 +40,20 @@
 
     <div class="jumbotron2 tours_about bg_<?php echo $bg_color ?>">
         <div class="container">
-            <h1 class="font-bebas2">ABOUT OUR TOURS</h1>
+            <h1 class="font-bebas2 white_txt">ABOUT OUR TOURS</h1>
             <div class="row">
                 <div class="jumbo_content col-lg-8 col-lg-offset-2">
                     
-                    <p> A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to.
+                    <p> Are you traveling into Queensland and want to see it through the eye of a local, no secrets to be held back, we will show it to you! Brisbane is one of the least commercial cities in the world and there is so much to see and people from outside, even some locals, don’t realise what it has to offer.
+                    </p>
+                    <p> We stand for great customer service, and a fun adventure. Imagine it and we will make it happen, or run with our idea and we don’t joke with events that have our name tagged to them. We are determining to make your tour a very memorable one.
                     </p>
 
-                    <h3 class="font-bebas">HOW IT WORKS</h3>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia.
+                    <h3 class="font-bebas white_txt">HOW IT WORKS</h3>
+                    <p>We have three different packages; our mission is to create a timeless event, when you contact us; we can schedule you into an event and you will forever talk about it. 
+                    </p>
+                    <p>
+                    You’ve got to enjoy time and make memories that last; you can either relax or push yourself and have a blast.
                     </p>
                 </div>
             </div>
@@ -129,7 +134,7 @@
     <div class="jumbotron2 blogfeed bg_<?php echo $bg_color ?>">
         <div class="container">
 
-            <h1 class="font-bebas2">TAILORED TOURS</h1>
+            <h1 class="font-bebas2 white_txt">TAILORED TOURS</h1>
             
             <div class="jumbo_content">
                <div class="first-third col col-lg-4">

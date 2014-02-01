@@ -1,10 +1,20 @@
 
 
-
+.white_txt {
+	color: #FFF !important;
+}
 /*jumbotron styles*/
+
+div.tours_about {
+	height: 1150px;
+}
 
 .tours_about h3.font-bebas {
 	margin-top: 70px;
+}
+
+div.tours_about div.jumbo_content p {
+	font-size: 0.8em;
 }
 
 p.pkg_desc {
