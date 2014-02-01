@@ -70,6 +70,10 @@ div.jumbo_content p {
 	font-size: 1.2em !important; /*overriding bootstrap*/
 }
 
+.white_txt {
+	color: #FFF;
+}
+
 
 /*colors*/
 .lightblue { color: #7DCDF3; }
@@ -208,7 +212,9 @@ ul.navbar-right {
 	border-bottom: 3px solid #269abc !important; /*overriding bootstrap*/
 }
 
-/*end of carousel styling*/
+ol.carousel-indicators {
+	margin-bottom: 200px;
+}
 
 
 /* -------------------------------- */

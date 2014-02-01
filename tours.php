@@ -51,8 +51,7 @@
                     <p class="big_p">We have three different packages; our mission is to create a timeless event, when you contact us; we can schedule you into an event and you will forever talk about it. 
                     </p>
                     <p class="big_p">
-                    You’ve got to enjoy time and make memories that last; you can either relax or push yourself and have a blast.
-                    </p>
+                    You’ve got to enjoy time and make memories that last; you can either relax or push yourself and have a blast!</p>
                 </div>
             </div>
         </div> <!-- /.container -->
