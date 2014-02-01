@@ -52,7 +52,7 @@
                     </p>-->
                    
                         <div class="col-md-4">
-                             <img src="_/svg/cake.svg" alt="Responsive image" class="img-responsive_social">
+                             <img src="_/svg/cake_copy.svg" alt="Responsive image" class="img-responsive_social">
                               <h3 class="names_service">Birthdays</h3>
                         </div>
                         <div class="col-md-4">

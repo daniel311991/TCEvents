@@ -6,9 +6,11 @@ h1.font-bebas2 {
 	display: inline;
 	max-width: 150px;
 	padding-top: 25px;
-	margin-left: 30px;
+	margin-left: 35px;
 }
 
 h3.names_service { 
 	text-align: center;
+	color: white;
  }
+
