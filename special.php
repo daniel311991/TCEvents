@@ -34,7 +34,7 @@
             
             <div class="jumbo_content col col-lg-5">
                 <p><span class="pink">&lsquo;I will remember this forever&rsquo;</span> is the soul and heart of the events we make.
-               Time Capsule events can help you out a special event together, to suit your budget and vision. </p>
+               Time Capsule events can help you out in putting a special event together, to suit your budget and vision. </p>
             </div>
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
