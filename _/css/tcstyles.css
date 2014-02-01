@@ -11,13 +11,13 @@
 .orange {color: #F17735;}
 
 /*background colors for different pages*/
-.bg_lightblue { background-color: #7DCDF3 !important;}
-.bg_pink { background-color: #E8377A !important;}
-.bg_dark_red { background-color: #A5313A !important;}
-.bg_dark_blue { background-color: #0074D9 !important;}
-.bg_purple { background-color: #8E6EB0 !important;}
-.bg_orange { background-color: #F17735 !important;}
-.bg_white { background-color: #FFF !important;}
+.bg_lightblue { background-color: #7DCDF3 !important;} /*overriding bootstrap*/
+.bg_pink { background-color: #E8377A !important;} /*overriding bootstrap*/
+.bg_dark_red { background-color: #A5313A !important;} /*overriding bootstrap*/
+.bg_dark_blue { background-color: #0074D9 !important;} /*overriding bootstrap*/
+.bg_purple { background-color: #8E6EB0 !important;} /*overriding bootstrap*/
+.bg_orange { background-color: #F17735 !important;} /*overriding bootstrap*/
+.bg_white { background-color: #FFF !important;} /*overriding bootstrap*/
 
 /*nav hovers colors*/
 div.navHeaderCollapse ul.lightblue-hover li a:hover {
@@ -59,12 +59,10 @@ div.navHeaderCollapse ul.orange-hover li a:hover {
 /* body fixes navbar overlapping the jumbotron */
 body { padding-top: 5%; }
 
+/* -------------------------------- */
+/* ---------- NAVIGATION ---------- */
+/* -------------------------------- */
 
-
-
-
-
-/* style for navigation */
 img.tc_logo {
 	float: left; 
 	max-width: 25%; 
@@ -127,7 +125,9 @@ ul.navbar-right {
 	/* end of navbar menu responsive styling*/
 
 
-/*carousel styling*/
+/* -------------------------------- */
+/* ---------- CAROUSEL ------------ */
+/* -------------------------------- */
 	
 .carousel-caption {
 	margin-bottom: 300px;
@@ -153,19 +153,64 @@ ul.navbar-right {
 
 .findout_btn {
 	margin-top: 30px;
-	border-radius: 10px !important;
-	border-bottom: 3px solid #269abc !important;
+	border-radius: 10px !important; /*overriding bootstrap*/
+	border-bottom: 3px solid #269abc !important; /*overriding bootstrap*/
 }
 
 /*end of carousel styling*/
 
 
-/* styling for jumbotrons */
+/* -------------------------------- */
+/* ---------- JUMBOTRONS ---------- */
+/* -------------------------------- */
 
-div.header_msg {
+.jumbotron { 
+	margin-bottom: 0px; 
+	padding-top: 150px !important; /*override bootstrap*/ 
+	height: 850px;
+	margin-bottom: 0px !important; /*override bootstrap*/ 
+}
+
+/*.jumbotron2 { 
+	height: 850px;
+	padding-top: 150px; 
+	color: inherit; 
+}
+
+.jumbotron2 .jumbo_content p {
+	margin-top: 40px;
+}*/
+
+h1.font-bebas2 { 
+	font-family: Bebas; 
+	color: inherit;
+	text-align: center; 
+	word-spacing: 15px; 
+	font-size: 70px; }
+
+h2.font-bebas { font-family: Bebas; 
+	font-size: 25px; 
+}
+
+div.jumbo_content p { 
+	font-family: writing, serif; 
+	font-style: normal;
+	margin-top: 40px;
+}
+
+.big_p {
+	font-size: 24px !important; /*overriding bootstrap*/
+}
+
+.small_p {
+	font-size: 1.2em !important; /*overriding bootstrap*/
+}
+
+
+/* title pages */
+.header_msg {
 	height: 850px;
 	padding-top: 150px;
-	background-color: 
 }
 
 .header_msg h1.font-bebas.big_timeless {
@@ -177,58 +222,58 @@ div.header_msg {
 	font-family: Bebas; 
 	color: black; 
 	text-align: center; 
-	word-spacing: 15px;}
-
-
-p.jumbo1 { font-size: 12px !important; font-family: writing; font-style: italic; max-width: 115%;}
-.row1 { margin: auto; width: 503px; padding-top: 25px;}
-.jumbotron { margin-bottom: 0px !important; }
-
-
-@media (min-width: 1200px){
-.col-lg-5 { width: 50% !important; position: relative; min-height: 1px; margin-left: 295px; margin-top: 20px; }
+	word-spacing: 15px;
 }
 
-/* styling for jumbotron 2 */
-h1.font-bebas2 { font-family: Bebas; color: inherit; text-align: center; word-spacing: 15px; font-size: 70px !important; }
-h2.font-bebas { font-family: Bebas; color: #eee; font-size: 25px; }
-div.jumbo_content p { font-size: 24px !important; font-family: writing, serif; font-style: normal; }
-.row2 { margin-left: -50px; margin-right: -50px; }
-
-
-
-
-@media (min-width: 1200px){
-	.col-lg-2 { width: 20% !important; position: relative; min-height: 1px; margin-left: 365px; }
-}
-@media (min-width: 1200px){
-	.col-lg-3 { width: 20% !important; position: relative; min-height: 1px; margin-left: 40px; }
-}
-
-@media screen and (min-width: 768px) {
-	.jumbotron2 { padding-top: 48px; padding-bottom: 48px; }
-}
-
-.jumbotron2 { 
-	height: 850px;
-	padding-top: 150px; 
-	margin-bottom: 0px; 
-	color: inherit; 
-	background-color: #5ec8e8; 
-
-}
-
-.jumbotron2 .jumbo_content p {
+.header_msg p {
 	margin-top: 40px;
 }
 
-div.blogfeed {
-	height: 900px !important;
+
+/*mission styles*/
+
+.mission_why {
+	height: 750px;
 }
 
-div.blogfeed h2 { margin-top: 80px;}
+.mission_why .jumbo_content p {
+	margin-top: 40px;
+}
 
-div.blogfeed p { font-size: 1.2em !important; }
+
+/* blog feed styles */
+
+.blogfeed h2 { margin-top: 80px;}
+
+/*what we can do together styles*/
+
+.whatwecando h2 { 
+	margin-top: 80px;
+	}
+
+
+/* lets get started styles */
+
+div.startsection {
+	padding-top: 85px !important; /* overriding jumbotron*/
+	height: 450px;
+	margin: 0px;
+	margin-bottom: 0px;
+
+	/*inset box shadow*/
+	-moz-box-shadow:    inset  0  40px 40px -40px #555, 
+                        inset  0 -40px 40px -40px #555;
+    -webkit-box-shadow: inset  0  40px 40px -40px #555, 
+                        inset  0 -40px 40px -40px #555;
+     box-shadow:        inset  0  40px 40px -40px #555, 
+                        inset  0 -40px 40px -40px #555;
+
+}
+
+.startsection h1 {
+	font-size: 6em;
+	display: inline-block;
+}
 
 button#getstarted {
 	height: 123px;
@@ -246,30 +291,6 @@ button#getstarted:hover {
 	border-color: #398439 !important;
 }
 
-div.startsection {
-	padding-top: 70px !important;
-	height: 450px !important;
-	margin: 0px !important;
-	margin-bottom: 0px !important;
-
-	/*inset box shadow*/
-	-moz-box-shadow:    inset  0  40px 40px -40px #555, 
-                        inset  0 -40px 40px -40px #555;
-    -webkit-box-shadow: inset  0  40px 40px -40px #555, 
-                        inset  0 -40px 40px -40px #555;
-     box-shadow:        inset  0  40px 40px -40px #555, 
-                        inset  0 -40px 40px -40px #555;
-
-}
-
-.startsection .row {
-}
-
-.startsection h1 {
-	font-size: 6em;
-	display: inline-block;
-}
-
 img.tcnyou {
 	height: 120px;
 	display: inline-block;
@@ -277,6 +298,28 @@ img.tcnyou {
 	position: relative;
 	bottom: 34px;
 }
+
+
+		@media (min-width: 1200px){
+		.col-lg-5 { width: 50%; position: relative; min-height: 1px; margin-left: 295px; margin-top: 20px; }
+		}
+
+		@media (min-width: 1200px){
+			.col-lg-2 { width: 20%; position: relative; min-height: 1px; margin-left: 365px; }
+		}
+		@media (min-width: 1200px){
+			.col-lg-3 { width: 20%; position: relative; min-height: 1px; margin-left: 40px; }
+		}
+
+		@media screen and (min-width: 768px) {
+			.jumbotron2 { padding-top: 48px; padding-bottom: 48px; }
+		}
+
+
+
+/* -------------------------------- */
+/* ---------- FOOTER -------------- */
+/* -------------------------------- */
 
 .footer {
 	background-color: #222;
@@ -286,3 +329,4 @@ img.tcnyou {
 	height: 200px;
 	padding: 50px 0px;
 }
+

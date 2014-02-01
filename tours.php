@@ -6,9 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Time Capsule Events | Tours</title>
 
-    <link rel="stylesheet" href="_/css/tcstyles.css">
     <link rel="stylesheet" href="_/css/bootstrap.css">
     <link rel="stylesheet" href="_/css/tourstyles.css">
+    <link rel="stylesheet" href="_/css/tcstyles.css">
+    
+    
 
     <!-- FontAweseome -->
     <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
@@ -27,40 +29,36 @@
    
     <div class="jumbotron header_msg bg_white">
         <div class="container">
-
             <div class="jumbo_title">
                 <h1 class="font-bebas big_timeless"><span class="<?php echo $bg_color ?>">TOURS</span></h1>
-            </div>
-            
-            <div class="jumbo_content col col-lg-5">
-                <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts.</p>
+                <h1 class="font-bebas tour_slogan">TAKE A TOUR WITH ME</h1>
             </div>
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
 
-    <div class="jumbotron2 tours_about bg_<?php echo $bg_color ?>">
+    <div class="jumbotron tours_about bg_<?php echo $bg_color ?>">
         <div class="container">
             <h1 class="font-bebas2 white_txt">ABOUT OUR TOURS</h1>
             <div class="row">
                 <div class="jumbo_content col-lg-8 col-lg-offset-2">
                     
-                    <p> Are you traveling into Queensland and want to see it through the eye of a local, no secrets to be held back, we will show it to you! Brisbane is one of the least commercial cities in the world and there is so much to see and people from outside, even some locals, don’t realise what it has to offer.
+                    <p class="big_p"> Are you traveling into Queensland and want to see it through the eye of a local, no secrets to be held back, we will show it to you! Brisbane is one of the least commercial cities in the world and there is so much to see and people from outside, even some locals, don’t realise what it has to offer.
                     </p>
-                    <p> We stand for great customer service, and a fun adventure. Imagine it and we will make it happen, or run with our idea and we don’t joke with events that have our name tagged to them. We are determining to make your tour a very memorable one.
+                    <p class="big_p"> We stand for great customer service, and a fun adventure. Imagine it and we will make it happen, or run with our idea and we don’t joke with events that have our name tagged to them. We are determining to make your tour a very memorable one.
                     </p>
 
                     <h3 class="font-bebas white_txt">HOW IT WORKS</h3>
-                    <p>We have three different packages; our mission is to create a timeless event, when you contact us; we can schedule you into an event and you will forever talk about it. 
+                    <p class="big_p">We have three different packages; our mission is to create a timeless event, when you contact us; we can schedule you into an event and you will forever talk about it. 
                     </p>
-                    <p>
+                    <p class="big_p">
                     You’ve got to enjoy time and make memories that last; you can either relax or push yourself and have a blast.
                     </p>
                 </div>
             </div>
         </div> <!-- /.container -->
-    </div> <!-- /.jumbotron2-->
+    </div> <!-- /.jumbotron-->
 
-    <div class="jumbotron2 tours_packages blogfeed bg_white">
+    <div class="jumbotron tours_packages bg_white">
         <div class="container">
 
             <h1 class="font-bebas2">TOUR PACKAGES</h1>
@@ -131,49 +129,45 @@
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
 
-    <div class="jumbotron2 blogfeed bg_<?php echo $bg_color ?>">
+    <div class="jumbotron tailored bg_<?php echo $bg_color ?>">
         <div class="container">
 
             <h1 class="font-bebas2 white_txt">TAILORED TOURS</h1>
             
             <div class="jumbo_content">
                <div class="first-third col col-lg-4">
-                <h2>For You or a Group</h2>
+                 <img class="tailored_icons center-block" src="_/svg/people-icon.svg" alt="Icon of people"/>
+                <h2 class="center-block">For You or a Group</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo..
+                </p>
 
             </div>
 
             <div class="second-third col col-lg-4">
-                <h2>Mix and Match</h2>
+                <img class="tailored_icons center-block" src="_/svg/mixmatch-icon.svg" alt="Icon of mix and match"/>
+                <h2 class="center-block" >Mix and Match</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
+                </p>
 
             </div>
 
             <div class="third-third col col-lg-4">
-                <h2>An Exclusive Item</h2>
+                <img class="tailored_icons center-block" src="_/svg/gift-icon.svg" alt="Icon of gift"/>
+                <h2 class="center-block">An Exclusive Item</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
 
             </div>
             </div> <!-- /.jumbo_content -->
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
 
-    <div class="jumbotron2 startsection bg_white">
+    <div class="jumbotron startsection bg_white">
         <div class="container">
 
                 <div class="row">
