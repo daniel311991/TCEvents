@@ -64,7 +64,7 @@
             <h1 class="font-bebas2">TOUR PACKAGES</h1>
             
             <div class="jumbo_content">
-                <div class="row">
+                <div class="row spacing">
                     <div class="first-third col col-lg-4">
                         <h2>Brisbane From A Local's Eye</h2>
                         <p class="pkg_desc">Why stay in the building Y, office X while you can take a day to enjoy the real Brisbane. Relax, meet the locals, sight see and say G’day to a Riverside Cruise that takes you into a wonderful cafe. Then end your day with a laugh at a sit down comedy.</p>
@@ -84,7 +84,7 @@
                     </div> <!-- /.third-third -->
                 </div> <!-- /.row -->
 
-                <div class="row pkg_adventures">
+                <div class="row pkg_adventures spacing">
                     <div class="first-third col col-lg-4">
                         <h2>Adventures You In The Sunshine State</h2>
                         <p class="pkg_desc">Day one, we take on the beautiful Brisbane, Climb the Bridge, go Hiking, sight scene and cruising around the river side. Day 2: We then head to 0'Reilly’s Canungra Valley, enjoy Fine dinning and wine from the boutique vineyard, waterfalls and a Stay in the heritage building. Day 3 we head to the coast and take on Surfing at the Coast after a long day of Sun-baking at the beach we drive back to Brisbane and enjoy the nice view of My Cotta.</p>
@@ -104,7 +104,7 @@
                     </div> <!-- /.third-third -->
                 </div> <!-- /.row -->
 
-                <div class="row">
+                <div class="row spacing">
                     <div class="first-third col col-lg-4">
                          <h2>I Want My Family To Be There</h2>
                         <p class="pkg_desc">Make memories, where everyone can tell a story that has you in it. take the kids and head place where you can ali have fun. Brisbane and the coast.</p>
