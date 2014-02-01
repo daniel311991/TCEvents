@@ -84,109 +84,81 @@
     </div> <!-- /.jumbotron2-->
 
     <div class="jumbotron2 blogfeed bg_white">
-    <div class="jumbotron2 tours_packages blogfeed bg_white">
+    <div class="jumbotron2 special_packages blogfeed bg_white">
         <div class="container">
 
             <h1 class="font-bebas2_special">SPECIAL PACKAGES</h1>
             
             <div class="jumbo_content">
+                <!-- package 1 -->
+                 <div class="row">
+                    <div class="first-third col col-lg-4">
+                        <h2>Wedding Consultation</h2>
+                    
+                         <p class="pkg_desc">Shush, I would tell them I planned, but I will be there to help you.
+                        <br/> 
+                        So you said I do, but you don’t know how it works, and don’t know how to create your wedding day. You don’t have the time to find out and the money to hire a planner to take your idea and build it into something exciting and a vivid plan. 
+                        <br/>
+                        What we do is a different consulting service, we meet with you face to face and build your vision and connect you to suppliers, save you time, money and tell you the best secrets to make your wedding day the timeless event that you dreamed of.  
+                        After we create a plan, we let you go and meet your suppliers; we have check-points where we see if things are falling according to plan. 
+                        </p>
 
-               <div class="first-third col col-lg-4">
+                        <img class="pkg_icons" src="_/svg/cost-icon.svg" alt="Icon of a sun" />
+                        <h4 class="pkg_info font-bebas">$1200.00<!--<span class="pkg_info_sm">per person</span>--></h4>
+                    </div> <!-- first-third -->
 
-               <img class="pkg_thumb_pic img-circle" src="http://placeimg.com/340/340/nature" alt="Image of Brisbane" />
-                
-                <h2>Need some help</h2>
-                <p class="pkg_desc">Shush, I would tell them I planned, but I will be there to help you.
-                <br/> 
-                So you said I do, but you don’t know how it works, and don’t know how to create your wedding day. You don’t have the time to find out and the money to hire a planner to take your idea and build it into something exciting and a vivid plan. 
-                <br/>
-                What we do is a different consulting service, we meet with you face to face and build your vision and connect you to suppliers, save you time, money and tell you the best secrets to make your wedding day the timeless event that you dreamed of.  
-                After we create a plan, we let you go and meet your suppliers; we have check-points where we see if things are falling according to plan. 
-                </p>
+                     <div class="second-third col col-lg-4">
+                        <img class="pkg_thumb_pic1 img-circle" src="http://placeimg.com/340/342/arch" alt="Image of Brisbane" />
+                    </div> <!-- second-third -->
+                     <div class="third-third col col-lg-4">
+                        <img class="pkg_thumb_pic1 img-circle" src="http://placeimg.com/340/342/people" alt="Image of Brisbane" />
+                    </div> <!-- /.third-third -->
+                </div> <!-- /.row -->
 
-                <img class="pkg_icons" src="_/svg/time-icon.svg" alt="Icon of a sun" style="margin-bottom: 24px;"/>
-                <h4 class="pkg_info font-bebas">Wedding Consulting <br/><span style="font-size: 0.8em;">incl. 1 day stay at the Hunter Valley</span></h4>
-                <br/>
-                <img class="pkg_icons" src="_/svg/cost-icon.svg" alt="Icon of a sun" />
-                <h4 class="pkg_info font-bebas">$1200.00<!--<span class="pkg_info_sm">per person</span>--></h4>
+                <!-- package 2 -->
+                 <div class="row spacing">
+                    <div class="first-third col col-lg-4">
+                        <h2>Wedding Directing</h2>
+                    
+                        <p class="pkg_desc">This is for the Bride who has planned everything but we realise that you can’t be the show and run the show at the same time. We can be there from all day, making sure everything goes smoothly and you are enjoying the happiest day of your life. We meet with you before the wedding to discuss what is expected, map it out and watch an unforgettable day unfold. </p>
 
-            </div>
+                        <img class="pkg_icons" src="_/svg/cost-icon.svg" alt="Icon of a sun" />
+                        <h4 class="pkg_info font-bebas">$50.00<span class="pkg_info_sm">per hour</span></h4>
+                    </div> <!-- first-third -->
 
-            <div class="second-third col col-lg-4">
-                
-                <img class="pkg_thumb_pic img-circle" src="http://placeimg.com/340/340/nature" alt="Image of Brisbane" />
-                
-                <h2>Don&rsquo;t worry about anything</h2>
-                <p class="pkg_desc">This is for the Bride who has planned everything but we realise that you can’t be the show and run the show at the same time. We can be there from all day, making sure everything goes smoothly and you are enjoying the happiest day of your life. We meet with you before the wedding to discuss what is expected, map it out and watch an unforgettable day unfold. </p>
+                     <div class="second-third col col-lg-4">
+                        <img class="pkg_thumb_pic img-circle" src="http://placeimg.com/340/342/arch" alt="Image of Brisbane" />
+                    </div> <!-- second-third -->
+                     <div class="third-third col col-lg-4">
+                        <img class="pkg_thumb_pic img-circle" src="http://placeimg.com/340/342/people" alt="Image of Brisbane" />
+                    </div> <!-- /.third-third -->
+                </div> <!-- /.row -->
 
-                <img class="pkg_icons" src="_/svg/time-icon.svg" alt="Icon of a sun" style="margin-bottom: 24px;"/>
-                <h4 class="pkg_info font-bebas">Directing <br/><span style="font-size: 0.8em;">incl. 1 day stay at the Hunter Valley</span></h4>
-                <br/>
-                <img class="pkg_icons" src="_/svg/cost-icon.svg" alt="Icon of a sun" />
-                <h4 class="pkg_info font-bebas">$50.00<span class="pkg_info_sm">per hour</span></h4>
+                <!-- package 3 -->
 
-            </div>
+                 <div class="row spacing">
+                    <div class="first-third col col-lg-4">
+                        <h2>An Exclusive Wedding</h2>
+                    
+                        <p class="pkg_desc">This is for the Bride who has planned everything but we realise that you can’t be the show and run the show at the same time. We can be there from all day, making sure everything goes smoothly and you are enjoying the happiest day of your life. We meet with you before the wedding to discuss what is expected, map it out and watch an unforgettable day unfold. </p>
 
-            <div class="third-third col col-lg-4">
+                        <img class="pkg_icons" src="_/svg/cost-icon.svg" alt="Icon of a sun" >
+                        <h4 class="pkg_info font-bebas">Quote<!--<span class="pkg_info_sm">per person</span><br/>
+                        $70.00<span class="pkg_info_sm">for children</span>--></h4>
+                    </div> <!-- first-third -->
 
-                <img class="pkg_thumb_pic img-circle" src="http://placeimg.com/340/340/any" alt="Image of Brisbane" />
+                     <div class="second-third col col-lg-4">
+                        <img class="pkg_thumb_pic img-circle" src="http://placeimg.com/340/342/arch" alt="Image of Brisbane" />
+                    </div> <!-- second-third -->
+                     <div class="third-third col col-lg-4">
+                        <img class="pkg_thumb_pic img-circle" src="http://placeimg.com/340/342/people" alt="Image of Brisbane" />
+                    </div> <!-- /.third-third -->
+                </div> <!-- /.row -->
 
-                <h2>Want to make it unique</h2>
-                <p class="pkg_desc">This is for the Bride who has planned everything but we realise that you can’t be the show and run the show at the same time. We can be there from all day, making sure everything goes smoothly and you are enjoying the happiest day of your life. We meet with you before the wedding to discuss what is expected, map it out and watch an unforgettable day unfold. </p>
-
-                <img class="pkg_icons" src="_/svg/time-icon.svg" alt="Icon of a sun" style="margin-bottom: 8px;"/>
-                <h4 class="pkg_info font-bebas">An Exclusive Wedding</h4>
-                <br/>
-                <img class="pkg_icons" src="_/svg/cost-icon.svg" alt="Icon of a sun" >
-                <h4 class="pkg_info font-bebas">Quote<!--<span class="pkg_info_sm">per person</span><br/>
-                    $70.00<span class="pkg_info_sm">for children</span>--></h4>
-
-            </div>
             </div>
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
 
-    <div class="jumbotron2 blogfeed bg_<?php echo $bg_color ?>">
-        <div class="container">
-
-            <h1 class="font-bebas2">WHAT WE CAN DO TOGETHER</h1>
-            
-            <div class="jumbo_content">
-               <div class="first-third col col-lg-4">
-                <h2>First Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-            </div>
-
-            <div class="second-third col col-lg-4">
-                <h2>Second Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-            </div>
-
-            <div class="third-third col col-lg-4">
-                <h2>Third Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-            </div>
-            </div>
-        </div> <!-- /.container-->
-    </div> <!-- /.jumbotron-->
 
     <div class="jumbotron2 startsection bg_white">
         <div class="container">

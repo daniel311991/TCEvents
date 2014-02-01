@@ -27,6 +27,7 @@ h3.names_service {
  	height: 1000px !important;
  }
 
+
 /* Packages special events */
 .tours_about h3.font-bebas {
 	margin-top: 70px;
@@ -54,10 +55,19 @@ img.pkg_icons {
 	margin-left: 5px;
 }
 
+.pkg_thumb_pic1{
+	margin-top: 130px;
+}
+
 .pkg_thumb_pic {
 	margin-top: 50px;
 }
 
-div.tours_packages {
-	height: 1400px !important;
+div.special_packages {
+	height: 1820px !important;
+	padding-top: 25px !important;
+}
+
+.spacing{
+	padding-top: 100px;
 }
