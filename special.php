@@ -82,8 +82,7 @@
             </div>
         </div> <!-- /.container -->
     </div> <!-- /.jumbotron-->
-
-    <div class="jumbotron bg_white">
+    
     <div class="jumbotron special_packages bg_white">
         <div class="container">
 
