@@ -34,7 +34,6 @@ h3.names_service {
 }
 
 p.pkg_desc {
-	font-size: 1.4em !important;
 	margin-bottom: 40px;
 }
 
@@ -56,11 +55,11 @@ img.pkg_icons {
 }
 
 .pkg_thumb_pic1{
-	margin-top: 150px;
+	margin-top: 95px;
 }
 
 .pkg_thumb_pic {
-	margin-top: 50px;
+	margin-top: 0px;
 }
 
 div.special_packages {
@@ -69,5 +68,5 @@ div.special_packages {
 }
 
 .spacing{
-	padding-top: 100px;
+	padding-top: 150px;
 }
