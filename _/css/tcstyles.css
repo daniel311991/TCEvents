@@ -16,6 +16,10 @@ body { padding-top: 5%; }
 	margin-bottom: 0px !important; /*override bootstrap*/ 
 }
 
+.spacing {
+	padding-top: 150px;
+}
+
 /*.jumbotron2 { 
 	height: 850px;
 	padding-top: 150px; 
