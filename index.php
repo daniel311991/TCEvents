@@ -68,18 +68,11 @@
         </div> <!-- /.home_carousel -->
 
 
-    <div class="jumbotron header_msg bg_white">
+    <div class="jumbotron header_msg timeless_title bg_white">
         <div class="container">
             <div class="jumbo_title">
                 <h1 class="font-bebas">WE MAKE EVENTS</h1>
                 <h1 class="font-bebas big_timeless"><span class="<?php echo $bg_color ?>">TIME</span>LESS</h1>
-            </div>
-            
-            <div class="jumbo_content col col-lg-5">
-                <p class="big_p"><span class="dark_red">&lsquo;I will remember this forever&rsquo;</span> is the soul and heart of the events we make.
-                Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat.</p>
             </div>
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
@@ -89,10 +82,10 @@
             <h1 class="font-bebas2">WHY WE&rsquo;RE HERE</h1>
             <div class="row">
                 <div class="jumbo_content col-lg-8 col-lg-offset-2">
-                    <p class="big_p"> We&rsquo;re here because we <em>love</em> events and we do them well. Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    <p class="big_p"> We strive to make your moments Timeless.
                     </p>
 
-                    <p class="big_p">Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    <p class="big_p">Whether it be a tour event with us or perhaps the most important milestone in your life, the day you say I do and become an intertwined soul with your one and only. You will look back, it will always be a time to remember. 
                     </p>
                 </div>
             </div>
@@ -149,34 +142,19 @@
             <div class="jumbo_content ">
                <div class="first-third col col-lg-4">
                 <h2>First Section</h2>
-                <p class="small_p">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p class="small_p">We are a group people who work with you to bring the best events to life. We do plan events differently and have the right people to inspire your event and turn your dream into a very pleasant timeless event, including a visual media team, and connections everywhere to deliver what is required on the day and beyond. </p>
 
             </div>
 
             <div class="second-third col col-lg-4">
                 <h2>Second Section</h2>
-                <p class="small_p">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p class="small_p">We’ve helped many couples transform their vision into reality even when it seemed almost impossible. An example that always comes to mind it helping my long time friend in her wedding of 700 people and creating the most amazing day instead of what people expected a festival of a bunch of people together. We know how it works. I have been a bride maid countless times, a flower girl, and travelled across 4 continents. I have managed events for a long time and I see people become so frustrated at the experience; people call it madness that I choose to help. I love taking on challenges and see people have enjoy the outcome, I genuinely find them wonderful, the best events are those that happen in open communication with all parties, you manage crisis and there might be surprised with the outcome but you manage the negative and knowing people is the first step to eliminating risk, it lifts the whole event and it takes it off. </p>
 
             </div>
 
             <div class="third-third col col-lg-4">
                 <h2>Third Section</h2>
-                <p class="small_p">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p class="small_p">The nature of events is something will go wrong every time, no matter how much planning is involved. That’s why we are always prepared just in case that strap snaps and the bride needs help or its rains on a day that forecasted a brighter day. We see through the clouds, at the end of the day, it’s a wonderful feeling and people always remember our events as breathtaking and timeless.</p>
 
             </div>
             </div>

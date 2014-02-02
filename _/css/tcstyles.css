@@ -223,6 +223,10 @@ ol.carousel-indicators {
 
 
 /* title pages */
+
+div.timeless_title {
+	height: 650px !important;
+}
 .header_msg {
 	height: 850px;
 	padding-top: 150px;
