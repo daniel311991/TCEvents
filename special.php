@@ -44,7 +44,7 @@
             <h1 class="font-bebas2">WHY WE&rsquo;RE HERE</h1>
             <div class="row">
                 <div class="jumbo_content col-lg-8 col-lg-offset-2">
-                    <p class="big_p"> Wether it is a formal celebration, a warm home event or a grand event, 
+                    <p class="small_p special_p"> Wether it is a formal celebration, a warm home event or a grand event, 
                         we have wedding coordinators to plan and touch up on events such as: 
                     </p>
 

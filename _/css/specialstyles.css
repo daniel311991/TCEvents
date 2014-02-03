@@ -66,3 +66,8 @@ div.special_packages {
 	height: 1820px !important;
 	padding-top: 25px !important;
 }
+
+/* Color for big_p */
+.special_p {
+	color: white !important;
+}
