@@ -33,133 +33,62 @@
             </div>
             
             <div class="jumbo_content col col-lg-5">
-                <p><span class="dark_red">&lsquo;I will remember this forever&rsquo;</span> is the soul and heart of the events we make.
-                Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat.</p>
+                <p class="big_p">We can help you to create a timeless buzz. <br/>Organizing events is what we do best and we have all the time you need to help you create a quality event.</p>
             </div>
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
 
-    <div class="jumbotron2 bg_<?php echo $bg_color ?>">
-        <div class="container">
-            <h1 class="font-bebas2">WHY WE&rsquo;RE HERE</h1>
-            <div class="row">
-                <div class="jumbo_content col-lg-8 col-lg-offset-2">
-                    <p> We&rsquo;re here because we <em>love</em> events and we do them well. Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    </p>
-
-                    <p>Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    </p>
-                </div>
-                <!-- <div class="first-second col col-lg-2">
-                    <h2 class="font-bebas">What it is</h2>
-                        <p class="jumbo2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                </div>
-            
-                <div class="second-second col col-lg-3">
-                    <h2 class="font-bebas">How it works ?</h2>
-                        <p class="jumbo2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                </div> -->
-            </div>
-        </div> <!-- /.container -->
-    </div> <!-- /.jumbotron2-->
-
-    <div class="jumbotron2 blogfeed bg_white">
+    <div class="jumbotron doforall bg_<?php echo $bg_color ?>">
         <div class="container">
 
-            <h1 class="font-bebas2">BLOG FEED</h1>
-            
-            <div class="jumbo_content">
+            <h1 class="font-bebas2">WHAT WE CAN DO<br/>
+                FOR ALL OF YOU</h1>
+
+            <div class="jumbo_content row">
                <div class="first-third col col-lg-4">
-                <h2>First Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <img src="http://placehold.it/150x150" alt="Icon of Annual Meeting" class="img-circle center-block"/>
+                    <h2>Annual General Meeting</h2>
 
-            </div>
+                </div>
 
-            <div class="second-third col col-lg-4">
-                <h2>Second Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <div class="second-third col col-lg-4">
+                    <img src="http://placehold.it/150x150" alt="Icon of Annual Meeting" class="img-circle center-block"/>
+                    <h2>Staff Parties</h2>
 
-            </div>
+                </div>
 
-            <div class="third-third col col-lg-4">
-                <h2>Third Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <div class="third-third col col-lg-4">
+                    <img src="http://placehold.it/150x150" alt="Icon of Annual Meeting" class="img-circle center-block"/>
+                    <h2>New Recruit Welcome Party</h2>
 
-            </div>
-            </div>
-        </div> <!-- /.container-->
-    </div> <!-- /.jumbotron-->
+                </div>
+            </div> <!-- /.jumbo_content .row -->
 
-    <div class="jumbotron2 blogfeed bg_<?php echo $bg_color ?>">
-        <div class="container">
-
-            <h1 class="font-bebas2">WHAT WE CAN DO TOGETHER</h1>
-            
-            <div class="jumbo_content">
+            <div class="jumbo_content row">
                <div class="first-third col col-lg-4">
-                <h2>First Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <img src="http://placehold.it/150x150" alt="Icon of Annual Meeting" class="img-circle center-block"/>
+                    <h2>Awards &amp; Launch ceremony</h2>
 
-            </div>
+                </div>
 
-            <div class="second-third col col-lg-4">
-                <h2>Second Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <div class="second-third col col-lg-4">
+                    <img src="http://placehold.it/150x150" alt="Icon of Annual Meeting" class="img-circle center-block"/>
+                    <h2>Workshops and Expos</h2>
 
-            </div>
+                </div>
 
-            <div class="third-third col col-lg-4">
-                <h2>Third Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <div class="third-third col col-lg-4">
+                    <img src="http://placehold.it/150x150" alt="Icon of Annual Meeting" class="img-circle center-block"/>
+                    <h2>Training Sessions</h2>
 
-            </div>
-            </div>
+                </div>
+            </div> <!-- /.jumbo_content .row -->
+
+
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
 
-    <div class="jumbotron2 startsection bg_white">
+    <div class="jumbotron startsection bg_white">
         <div class="container">
 
                 <div class="row">
@@ -177,13 +106,6 @@
             
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
-
-
-    <!-- <div class="navbar navbar-inverse navbar-fixed-bottom">
-        <div class="container">
-            <p class= "navbar-text">Site built by Daniel and Hanz</p>
-        </div>
-    </div>  -->
 
 <!-- PHP footer include -->
     <?php include('_/includes/footer.php') ?>

@@ -1,0 +1,18 @@
+
+div.doforall {
+	height: 1100px;
+}
+
+div.doforall h1 {
+	margin-bottom: 80px;
+	text-align: center;
+}
+
+div.doforall h2 {
+	text-align: center;
+	color: white;
+}
+
+.doforall .container:first-child div.jumbo_content{
+	margin-bottom: 60px;
+}
