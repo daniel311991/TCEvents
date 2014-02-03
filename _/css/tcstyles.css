@@ -76,9 +76,9 @@ div.jumbo_content p {
 
 
 /*colors*/
-.lightblue { color: #7DCDF3; }
+.lightblue { color: #7DCDF3;}
 .pink { color: #E8377A;}
-.dark_red { color: #A5313A; }
+.dark_red { color: #A5313A;}
 .dark_blue { color: #0074D9;}
 .purple { color: #8E6EB0;}
 .orange {color: #F17735;}
@@ -93,30 +93,19 @@ div.jumbo_content p {
 .bg_white { background-color: #FFF !important;} /*overriding bootstrap*/
 
 /*nav hovers colors*/
-div.navHeaderCollapse ul.lightblue-hover li a:hover {
-	color: #7DCDF3;
-}
-div.navHeaderCollapse ul.pink-hover li a:hover {
-	color: #E8377A;
-}
-div.navHeaderCollapse ul.dark_red-hover li a:hover {
-	color: #A5313A;
-}
-div.navHeaderCollapse ul.dark_blue-hover li a:hover {
-	color: #0074D9;
-}
-div.navHeaderCollapse ul.purple-hover li a:hover {
-	color: #8E6EB0;
-}
-div.navHeaderCollapse ul.orange-hover li a:hover {
-	color: #F17735;
-}
+ .lightblue-hover:hover { color: #7DCDF3 !important;}
+ .pink-hover:hover { color: #E8377A !important;}
+ .dark_red-hover:hover { color: #A5313A !important;}
+ .dark_blue-hover:hover { color: #0074D9 !important;}
+ .purple-hover:hover { color: #8E6EB0 !important;}
+ .orange-hover:hover { color: #F17735 !important;}
 
 li.tourslink a { color: #7DCDF3 !important;}
 li.speciallink a { color: #E8377A !important;}
 li.corplink a { color: #0074D9 !important;}
 li.contactlink a { color: #8E6EB0 !important;}
 li.storylink a { color: #F17735 !important;}
+
 
 
 
