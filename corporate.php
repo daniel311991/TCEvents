@@ -40,11 +40,18 @@
 
     <div class="jumbotron doforall bg_<?php echo $bg_color ?>">
         <div class="container">
+            <div class="row pushdown70px">
+                <div class = "col col-lg-8 col-lg-offset-2">
+                    <h1 class="font-bebas2">CORPORATE SERVICES</h1>
+                    <p class="med_p center_txt font-writing">
+                        We understand the stress and time strain attached to the corporate world, our coordinators have been there and we can help you get it under control. We understand the corporate world. All it takes is one phone call and the corporate event organizing is someone else’s problem. We take care of the entertainment, food, venue, invites, transport and everything in between. Call us and rely on our expertise.
+                    </p>
+                </div>
 
-            <h1 class="font-bebas2">WHAT WE CAN DO<br/>
-                FOR ALL OF YOU</h1>
+            </div>
+                
 
-            <div class="jumbo_content row">
+            <div class="jumbo_content row pushdown70px">
                <div class="first-third col col-lg-4">
                     <img src="http://placehold.it/150x150" alt="Icon of Annual Meeting" class="img-circle center-block"/>
                     <h2>Annual General Meeting</h2>

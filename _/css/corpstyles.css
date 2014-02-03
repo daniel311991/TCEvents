@@ -1,6 +1,6 @@
 
 div.doforall {
-	height: 1100px;
+	height: 1350px;
 }
 
 div.doforall h1 {
@@ -11,8 +11,4 @@ div.doforall h1 {
 div.doforall h2 {
 	text-align: center;
 	color: white;
-}
-
-.doforall .container:first-child div.jumbo_content{
-	margin-bottom: 60px;
 }
