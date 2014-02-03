@@ -141,20 +141,23 @@
             
             <div class="jumbo_content ">
                <div class="first-third col col-lg-4">
-                <h2>First Section</h2>
-                <p class="small_p">We are a group people who work with you to bring the best events to life. We do plan events differently and have the right people to inspire your event and turn your dream into a very pleasant timeless event, including a visual media team, and connections everywhere to deliver what is required on the day and beyond. </p>
+                <h2>We are a group people who work with you to bring the best events to life.</h2>
+                <p class="small_p"> We do plan events differently and have the right people to inspire your event and turn your dream into a very pleasant timeless event, including a visual media team, and connections everywhere to deliver what is required on the day and beyond. </p>
+                
+                <p class="small_p">We’ve helped many couples transform their vision into reality even when it seemed almost impossible. 
+                </p>
 
             </div>
 
             <div class="second-third col col-lg-4">
-                <h2>Second Section</h2>
-                <p class="small_p">We’ve helped many couples transform their vision into reality even when it seemed almost impossible. An example that always comes to mind it helping my long time friend in her wedding of 700 people and creating the most amazing day instead of what people expected a festival of a bunch of people together. We know how it works. I have been a bride maid countless times, a flower girl, and travelled across 4 continents. I have managed events for a long time and I see people become so frustrated at the experience; people call it madness that I choose to help. I love taking on challenges and see people have enjoy the outcome, I genuinely find them wonderful, the best events are those that happen in open communication with all parties, you manage crisis and there might be surprised with the outcome but you manage the negative and knowing people is the first step to eliminating risk, it lifts the whole event and it takes it off. </p>
+                <h2>We know how it works.</h2>
+                <p class="small_p">An example that always comes to mind it helping my long time friend in her wedding of 700 people and creating the most amazing day instead of what people expected a festival of a bunch of people together. I have been a bride maid countless times, a flower girl, and travelled across 4 continents. I have managed events for a long time and I see people become so frustrated at the experience; people call it madness that I choose to help. I love taking on challenges and see people have enjoy the outcome, I genuinely find them wonderful, the best events are those that happen in open communication with all parties, you manage crisis and there might be surprised with the outcome but you manage </p>
 
             </div>
 
             <div class="third-third col col-lg-4">
-                <h2>Third Section</h2>
-                <p class="small_p">The nature of events is something will go wrong every time, no matter how much planning is involved. That’s why we are always prepared just in case that strap snaps and the bride needs help or its rains on a day that forecasted a brighter day. We see through the clouds, at the end of the day, it’s a wonderful feeling and people always remember our events as breathtaking and timeless.</p>
+                <p class="small_p">the negative and knowing people is the first step to eliminating risk, it lifts the whole event and it takes it off. </p>
+                <p class="small_p"> The nature of events is something will go wrong every time, no matter how much planning is involved. That’s why we are always prepared just in case that strap snaps and the bride needs help or its rains on a day that forecasted a brighter day. We see through the clouds, at the end of the day, it’s a wonderful feeling and people always remember our events as breathtaking and timeless.</p>
 
             </div>
             </div>

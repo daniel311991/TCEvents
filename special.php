@@ -17,7 +17,8 @@
 <body id="home">
 
 <!-- PHP navbar include -->
-    <?php 
+    <?php
+        $specialactive = 'class = "speciallink active"';
         $bg_color = 'pink';
         $svgpath = '_/svg/tc_logo_'.$bg_color.'.svg';
         include ('_/includes/navbar.php') 

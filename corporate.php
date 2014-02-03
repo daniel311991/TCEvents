@@ -17,7 +17,8 @@
 <body id="home">
 
 <!-- PHP navbar include -->
-    <?php 
+    <?php
+        $corpactive = 'class = "corplink active"';
         $bg_color = 'dark_blue';
         $svgpath = '_/svg/tc_logo_'.$bg_color.'.svg';
         include ('_/includes/navbar.php') 

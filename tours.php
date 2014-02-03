@@ -21,6 +21,7 @@
 
 <!-- PHP navbar include -->
     <?php 
+        $toursactive = 'class = "tourslink active"';
         $bg_color = 'lightblue';
         $svgpath = '_/svg/tc_logo_'.$bg_color.'.svg';
         include ('_/includes/navbar.php') 

@@ -17,7 +17,9 @@
 <body id="home">
 
 <!-- PHP navbar include -->
-    <?php 
+    <?php
+        
+        $mystoryactive = 'class = "storylink active"';
         $bg_color = 'orange';
         $svgpath = '_/svg/tc_logo_'.$bg_color.'.svg';
         include ('_/includes/navbar.php') 

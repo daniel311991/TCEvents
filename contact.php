@@ -17,7 +17,8 @@
 <body id="home">
 
 <!-- PHP navbar include -->
-    <?php 
+    <?php
+        $contactactive = 'class = "contactlink active"';
         $bg_color = 'purple';
         $svgpath = '_/svg/tc_logo_'.$bg_color.'.svg';
         include ('_/includes/navbar.php') 

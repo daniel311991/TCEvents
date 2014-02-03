@@ -112,6 +112,17 @@ div.navHeaderCollapse ul.orange-hover li a:hover {
 	color: #F17735;
 }
 
+li.tourslink a { color: #7DCDF3 !important;}
+li.speciallink a { color: #E8377A !important;}
+li.corplink a { color: #0074D9 !important;}
+li.contactlink a { color: #8E6EB0 !important;}
+li.storylink a { color: #F17735 !important;}
+
+
+
+
+
+
 
 
 /* -------------------------------- */
@@ -271,6 +282,10 @@ div.timeless_title {
 .whatwecando h2 { 
 	margin-top: 80px;
 	}
+
+.whatwecando .third-third {
+	padding-top: 112px;
+}
 
 
 /* lets get started styles */
