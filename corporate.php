@@ -43,7 +43,7 @@
             <div class="row pushdown70px">
                 <div class = "col col-lg-8 col-lg-offset-2">
                     <h1 class="font-bebas2">CORPORATE SERVICES</h1>
-                    <p class="med_p center_txt font-writing">
+                    <p class="big_p font-writing">
                         We understand the stress and time strain attached to the corporate world, our coordinators have been there and we can help you get it under control. We understand the corporate world. All it takes is one phone call and the corporate event organizing is someone else’s problem. We take care of the entertainment, food, venue, invites, transport and everything in between. Call us and rely on our expertise.
                     </p>
                 </div>
