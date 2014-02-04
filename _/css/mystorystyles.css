@@ -1,15 +1,42 @@
 .pic_jumbo {
 	height: 340px;
-	background-image: url("http://placeimg.com/340/342/arch");
+	padding: 0px;
+}
+
+.text_jumbo {
+	height: 500px;
+}
+
+.text_jumbo1{
+	height: 355px;
+}
+
+.text_jumbo2{
+	height: 455px;
+}
+
+.text_jumbo3{
+	height: 380px;
+}
+
+.pic_jumbo .first-third {
+	background-image: url("http://placeimg.com/340/600/arch");
+	height: 340px;
 	margin-top: -150px;
 }
 
-/*
-.first-third {
-	background-image: url("http://placeimg.com/340/342/arch");
-	margin-top: -150px;
+.pic_jumbo .second-third {
+	background-image: url("http://placeimg.com/340/600/nature");
+	height: 340px;
+	margin-top: -150px;	
 }
-*/
+
+.pic_jumbo .third-third {
+	background-image: url("http://placeimg.com/340/600/any");
+	height: 340px;
+	margin-top: -150px;	
+}
+
 
 /* Packages special events */
 .tours_about h3.font-bebas {
