@@ -167,6 +167,7 @@
                 <div class="jumbo_content col-lg-8 col-lg-offset-2">
                     <p class="small_p special_p"> You have a vision of what your big day should look like and we catch it and make it a reality. We work with you and understand you, part of the journey is identifying what you really want and we know people and meeting their expectations is what we do best. We sit with you and discuss some of the following:  
                     </p>
+                    <div class="row">
                    
                         <div class="col-md-6">
                              <img src="_/svg/special/guests.svg" alt="Responsive image" class="img-responsive_social">
@@ -188,6 +189,8 @@
                              <img src="_/svg/special/money.svg" alt="Responsive image" class="img-responsive_social">
                              <h3 class="names_options">Budget</h3>
                         </div>
+                    </div>
+                    <div class="row">
                         <div class="col-md-6">
                              <img src="_/svg/special/buffet.svg" alt="Responsive image" class="img-responsive_social">
                              <h3 class="names_options">Catering</h3>
@@ -208,6 +211,7 @@
                              <img src="_/svg/special/wedding_day.svg" alt="Responsive image" class="img-responsive_social">
                              <h3 class="names_options">Wedding Day</h3>
                         </div>
+                    </div>
                 </div>
             </div>
         </div> <!-- /.container-->
