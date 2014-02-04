@@ -59,13 +59,13 @@
                 </div>
 
                 <div class="second-third col col-lg-4">
-                    <img src="http://placehold.it/150x150" alt="Icon of Annual Meeting" class="img-circle center-block"/>
+                    <img src="http://placehold.it/150x150" alt="Icon of Staff Parties" class="img-circle center-block"/>
                     <h2>Staff Parties</h2>
 
                 </div>
 
                 <div class="third-third col col-lg-4">
-                    <img src="http://placehold.it/150x150" alt="Icon of Annual Meeting" class="img-circle center-block"/>
+                    <img src="http://placehold.it/150x150" alt="Icon of Welcome Party" class="img-circle center-block"/>
                     <h2>New Recruit Welcome Party</h2>
 
                 </div>
@@ -73,19 +73,19 @@
 
             <div class="jumbo_content row">
                <div class="first-third col col-lg-4">
-                <img src="http://placehold.it/150x150" alt="Icon of Annual Meeting" class="img-circle center-block"/>
+                <img src="http://placehold.it/150x150" alt="Icon of Awards Ceremony" class="img-circle center-block"/>
                     <h2>Awards &amp; Launch ceremony</h2>
 
                 </div>
 
                 <div class="second-third col col-lg-4">
-                    <img src="http://placehold.it/150x150" alt="Icon of Annual Meeting" class="img-circle center-block"/>
+                    <img src="http://placehold.it/150x150" alt="Icon of Workshops" class="img-circle center-block"/>
                     <h2>Workshops and Expos</h2>
 
                 </div>
 
                 <div class="third-third col col-lg-4">
-                    <img src="http://placehold.it/150x150" alt="Icon of Annual Meeting" class="img-circle center-block"/>
+                    <img src="http://placehold.it/150x150" alt="Icon of Training Sessions" class="img-circle center-block"/>
                     <h2>Training Sessions</h2>
 
                 </div>

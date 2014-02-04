@@ -1,0 +1,46 @@
+
+
+.contactdeets h4 {
+	text-align: center;
+}
+
+.contactdeets .col:last-child h4 {
+	text-align: left;
+	margin-left: 110px;
+}
+
+
+.contactmsg {
+	height: 1150px;
+}
+
+.enquiry_form {
+	color: #58456E;
+}
+
+.enquiry_form input {
+	padding: 5px 10px;
+	background-color: #58456E;
+	border: none;
+	border-radius: 5px;
+	color: white;
+}
+
+.enquiry_form select {
+	padding: 5px 10px;
+	background-color: #58456E;
+	border: none;
+	border-radius: 5px;
+	color: white;
+}
+
+.enquiry_form textarea {
+
+	height: 350px;
+	width: 100%;
+	padding: 5px 10px;
+	background-color: #58456E;
+	border: none;
+	border-radius: 5px;
+	color: white;
+}

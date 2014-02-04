@@ -20,17 +20,13 @@ body { padding-top: 5%; }
 	padding-top: 150px;
 }
 
-.pushdown50px {
-	margin-bottom: 50px;
-}
+.pushdown20px {	margin-bottom: 20px; }
 
-.pushdown70px {
-	margin-bottom: 70px;
-}
+.pushdown50px {	margin-bottom: 50px; }
 
-.pushdown100px {
-	margin-bottom: 100px;
-}
+.pushdown70px {	margin-bottom: 70px; }
+
+.pushdown100px { margin-bottom: 100px; }
 
 
 /*.jumbotron2 { 
@@ -89,7 +85,7 @@ div.jumbo_content p {
 }
 
 .white_txt {
-	color: #FFF;
+	color: #FFF !important;
 }
 
 .center_txt {
