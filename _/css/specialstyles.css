@@ -8,6 +8,7 @@ color: #E8377A;
 text-align: center;
 word-spacing: 15px;
 font-size: 70px !important;
+padding-bottom: 40px;
 }
 
 .img-responsive_social {
@@ -64,7 +65,7 @@ img.pkg_icons {
 
 div.special_packages {
 	height: 1820px !important;
-	padding-top: 25px !important;
+	padding-top: 100px !important;
 }
 
 /* Color for big_p */
