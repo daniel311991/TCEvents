@@ -71,3 +71,17 @@ div.special_packages {
 .special_p {
 	color: white !important;
 }
+
+/* Positioning of final jumbotron */
+.col-md-6{
+	width: 17.33333% !important;
+	padding-left: 13px !important;
+	padding-right: 8px !important;
+}
+
+h3.names_options {
+	font-size: 18px;
+	color: white;
+	text-align: center;
+	padding-left: 25px;
+}
