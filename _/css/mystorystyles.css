@@ -1,0 +1,52 @@
+.pic_jumbo {
+	height: 340px;
+}
+
+.first-third {
+	background-image: url("http://placeimg.com/340/342/arch");
+	margin-top: -150px;
+}
+
+/* Packages special events */
+.tours_about h3.font-bebas {
+	margin-top: 70px;
+}
+
+p.pkg_desc {
+	margin-bottom: 40px;
+}
+
+img.pkg_icons {
+	height: 30px !important;
+	display: inline-block;
+	margin-bottom: 9px;
+
+}
+
+.pkg_info {
+	display: inline-block;
+	word-spacing: 0.1em;
+}
+
+.pkg_info_sm {
+	font-size: 0.6em;
+	margin-left: 5px;
+}
+
+.pkg_thumb_pic1{
+	margin-top: 95px;
+}
+
+.pkg_thumb_pic {
+	margin-top: 0px;
+}
+
+div.special_packages {
+	height: 1820px !important;
+	padding-top: 100px !important;
+}
+
+/* height problem */
+.height_me{
+	margin-top: -200px;
+}

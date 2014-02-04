@@ -43,18 +43,24 @@
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
 
-    <div class="jumbotron bg_<?php echo $bg_color ?>">
+    <div class="jumbotron pic_jumbo bg_<?php echo $bg_color ?>">
         <div class="container">
-            <h1 class="font-bebas2">WHY WE&rsquo;RE HERE</h1>
             <div class="row">
-                <div class="jumbo_content col-lg-8 col-lg-offset-2">
+               
+                 <!--<div class="jumbo_content col-lg-8 col-lg-offset-2">
                     <p class="big_p"> We&rsquo;re here because we <em>love</em> events and we do them well. Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     </p>
-
-                    <p class="big_p">Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    </p>
-                </div>
-            
+                </div> -->
+                <div class="first-third col col-lg-4 pic_jumbo">
+                        
+                    </div> <!-- first-third -->
+                        
+                     <div class="second-third col col-lg-4 pic_jumbo">
+                       
+                    </div> <!-- second-third -->
+                     <div class="third-third col col-lg-4 pic_jumbo">
+                       
+                    </div> <!-- /.third-third -->
             </div>
         </div> <!-- /.container -->
     </div> <!-- /.jumbotron-->
