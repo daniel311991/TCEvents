@@ -162,41 +162,53 @@
     <div class="jumbotron bg_<?php echo $bg_color ?>">
         <div class="container">
 
-            <h1 class="font-bebas2">WHAT WE CAN DO TOGETHER</h1>
-            
-            <div class="jumbo_content">
-               <div class="first-third col col-lg-4">
-                <h2>First Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-            </div>
-
-            <div class="second-third col col-lg-4">
-                <h2>Second Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-            </div>
-
-            <div class="third-third col col-lg-4">
-                <h2>Third Section</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-            </div>
+             <h1 class="font-bebas2">WEDDING TALKS</h1>
+            <div class="row">
+                <div class="jumbo_content col-lg-8 col-lg-offset-2">
+                    <p class="small_p special_p"> You have a vision of what your big day should look like and we catch it and make it a reality. We work with you and understand you, part of the journey is identifying what you really want and we know people and meeting their expectations is what we do best. We sit with you and discuss some of the following:  
+                    </p>
+                   
+                        <div class="col-md-6">
+                             <img src="_/svg/special/guests.svg" alt="Responsive image" class="img-responsive_social">
+                              <h3 class="names_options">Guests</h3>
+                        </div>
+                        <div class="col-md-6">
+                                <img src="_/svg/special/theme.svg" alt="Responsive image" class="img-responsive_social">
+                                 <h3 class="names_options">Theme</h3>
+                        </div>
+                        <div class="col-md-6">
+                              <img src="_/svg/special/shopping.svg" alt="Responsive image" class="img-responsive_social">
+                             <h3 class="names_options">Shopping</h3>
+                        </div>
+                        <div class="col-md-6">
+                              <img src="_/svg/special/makeup.svg" alt="Responsive image" class="img-responsive_social">
+                              <h3 class="names_options">Makeup</h3>
+                        </div>
+                        <div class="col-md-6">
+                             <img src="_/svg/special/money.svg" alt="Responsive image" class="img-responsive_social">
+                             <h3 class="names_options">Budget</h3>
+                        </div>
+                        <div class="col-md-6">
+                             <img src="_/svg/special/buffet.svg" alt="Responsive image" class="img-responsive_social">
+                             <h3 class="names_options">Catering</h3>
+                        </div>
+                         <div class="col-md-6">
+                             <img src="_/svg/special/flowers.svg" alt="Responsive image" class="img-responsive_social">
+                             <h3 class="names_options">Decorations</h3>
+                        </div>
+                         <div class="col-md-6">
+                             <img src="_/svg/special/camera.svg" alt="Responsive image" class="img-responsive_social">
+                             <h3 class="names_options">Photography</h3>
+                        </div>
+                         <div class="col-md-6">
+                             <img src="_/svg/special/music.svg" alt="Responsive image" class="img-responsive_social">
+                             <h3 class="names_options">Music</h3>
+                        </div>
+                         <div class="col-md-6">
+                             <img src="_/svg/special/wedding_day.svg" alt="Responsive image" class="img-responsive_social">
+                             <h3 class="names_options">Wedding Day</h3>
+                        </div>
+                </div>
             </div>
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
