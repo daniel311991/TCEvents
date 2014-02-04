@@ -178,7 +178,7 @@
                         </div>
                         <div class="col-md-6">
                               <img src="_/svg/special/shopping.svg" alt="Responsive image" class="img-responsive_social">
-                             <h3 class="names_options">Shopping</h3>
+                             <h3 class="names_options change1">Shopping</h3>
                         </div>
                         <div class="col-md-6">
                               <img src="_/svg/special/makeup.svg" alt="Responsive image" class="img-responsive_social">
@@ -194,11 +194,11 @@
                         </div>
                          <div class="col-md-6">
                              <img src="_/svg/special/flowers.svg" alt="Responsive image" class="img-responsive_social">
-                             <h3 class="names_options">Decorations</h3>
+                             <h3 class="names_options change2">Decorations</h3>
                         </div>
                          <div class="col-md-6">
                              <img src="_/svg/special/camera.svg" alt="Responsive image" class="img-responsive_social">
-                             <h3 class="names_options">Photography</h3>
+                             <h3 class="names_options change2">Photography</h3>
                         </div>
                          <div class="col-md-6">
                              <img src="_/svg/special/music.svg" alt="Responsive image" class="img-responsive_social">

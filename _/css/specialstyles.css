@@ -83,5 +83,13 @@ h3.names_options {
 	font-size: 18px;
 	color: white;
 	text-align: center;
-	padding-left: 25px;
+	padding-left: 35px;
+}
+
+.change1 {
+	padding-left: 33px !important;
+}
+
+.change2 {
+	padding-left: 20px !important;
 }
