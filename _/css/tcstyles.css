@@ -100,6 +100,7 @@ div.jumbo_content p {
 .dark_blue { color: #0074D9;}
 .purple { color: #8E6EB0;}
 .orange {color: #F17735;}
+.bg_darkgrey {background-color:#222;}
 
 /*background colors for different pages*/
 .bg_lightblue { background-color: #7DCDF3 !important;} /*overriding bootstrap*/
@@ -109,6 +110,7 @@ div.jumbo_content p {
 .bg_purple { background-color: #8E6EB0 !important;} /*overriding bootstrap*/
 .bg_orange { background-color: #F17735 !important;} /*overriding bootstrap*/
 .bg_white { background-color: #FFF !important;} /*overriding bootstrap*/
+.bg_darkgrey {background-color:#222;}
 
 /*nav hovers colors*/
  .lightblue-hover:hover { color: #7DCDF3 !important;}
