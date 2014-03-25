@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Time Capsule Events | Coming Soon</title>
 
-    <link rel="stylesheet" href="_/css/comingsoon.css">
     <link rel="stylesheet" href="_/css/tcstyles.css">
+    <link rel="stylesheet" href="_/css/comingsoon.css">
     <link rel="stylesheet" href="_/css/bootstrap.css">
 
     <!-- FontAweseome -->
@@ -19,22 +19,28 @@
 <!-- PHP navbar include -->
     <?php
         $specialactive = 'class = "speciallink active"';
-        $bg_color = 'pink';
+        $bg_color = 'dark_red';
         $svgpath = '_/svg/tc_logo_'.$bg_color.'.svg';
     ?>
-
-   
 
         <div class="container">
 
             <div class="jumbo_title">
-                <h1 class="font-bebas big_timeless"><span class="<?php echo $bg_color ?>">TIMECAPSULE EVENTS</span></h1>
-
-                <img src="<?php echo $svgpath ?>" class="tcnyou" alt="Responsive image" />
-                <h1 class="font-bebas">& YOU </h1>
-
-                <h1 class="font-bebas">COMING SOON</h1>
+                <h1 class="font-bebas comingsoon_title">COMING SOON</h1>
             </div>
+
+            <div class="big_logo">
+                 <img src="<?php echo $svgpath ?>" class="big_tc" alt="Big TC Events logo" />
+                <h1 class="font-bebas big_timeless"><span class="<?php echo $bg_color ?>">TIME</span>CAPSULE EVENTS</h1>
+            </div>
+
+             <div class="coming_deets">
+                    <h4 class="lightblue">Tours</h4>
+                    <h4 class="dark_blue">Corporate Tours</h4>
+                    <h4 class="pink">Special Events</h4>
+                    <h4 class="white_txt">Brisbane, Australia</h4>
+                </div>
+
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
 

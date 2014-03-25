@@ -1,4 +1,65 @@
-#coming_soon {
+.lightblue { color: #7DCDF3;}
+.pink { color: #E8377A;}
+.dark_red { color: #A5313A;}
+.dark_blue { color: #0074D9;}
+.purple { color: #8E6EB0;}
+.orange {color: #F17735;}
 
+#coming_soon {
 	background-color: #222;
 }
+
+#coming_soon h1.big_timeless {
+	font-size: 6em;
+	color: white;
+	text-align: right;
+	margin-right: 142px;
+
+	/*border: 1px solid red;*/
+}
+
+#coming_soon img.big_tc {
+	display: inline-block;
+	height: 186px;
+	float: left;
+	margin-left: 143px;
+
+	/*border: 1px solid red;*/
+}
+
+#coming_soon .comingsoon_title {
+	font-size: 9em;
+	text-align: center;
+	color: #333;
+
+	/*border: 1px solid red;*/
+}
+
+#coming_soon .big_logo {
+	margin-top: 80px;
+}
+
+.coming_deets {
+	margin-top: 150px;
+	text-align: center;
+}
+
+.coming_deets h4 {
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: lighter;
+	margin:0px 20px;
+	display: inline-block;
+
+}
+
+	@media (min-width: 1200px){
+		
+		#coming_soon img.big_tc {
+			margin-left: 244px;
+		}
+
+		#coming_soon h1.big_timeless {
+			margin-right: 244px;
+		}
+	}
+
